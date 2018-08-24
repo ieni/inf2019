@@ -10,18 +10,18 @@
   </div>
 
   <nav class="sidebar-nav">
-    <a class="sidebar-nav-item{% if page.title == "Home" %} active{% endif %}" href="/">Home</a>
-    <a class="sidebar-nav-item{% if page.title == "Nieuws" %} active{% endif %}" href="/nieuws.html">Nieuws</a>
+    <a class="sidebar-nav-item{% if page.title == "Home" %} active{% endif %}" href="{{ site.baseurl }} /">Home</a>
+    <a class="sidebar-nav-item{% if page.title == "Nieuws" %} active{% endif %}" href="{{ site.baseurl }}/nieuws.html">Nieuws</a>
     
     <span class="sidebar-nav-item">Thema's:</span>
     {% assign themas_list = site.themas %}
     {% for node in themas_list %}
       {% if node.title != null %}
         {% if node.layout == "thema" %}
-          <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">&bull; {{ node.title }}</a>
+          <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">&bull; {{ node.title }}</a>
           {% for subnode in themas_list %}
             {% if subnode.layout == "subthema" and subnode.thema == node.thema and subnode.thema == page.thema %}
-               <a class="sidebar-nav-item{% if page.url == subnode.url %} active{% endif %}" href="{{ subnode.url }}">&bull; &bull; {{ subnode.title }}</a>
+               <a class="sidebar-nav-item{% if page.url == subnode.url %} active{% endif %}" href="{{ site.baseurl }}{{ subnode.url }}">&bull; &bull; {{ subnode.title }}</a>
             {% endif %}
           {% endfor %}
         {% endif %}
@@ -37,7 +37,7 @@
     {% for node in pages_list %}
       {% if node.title != null %}
         {% if node.layout == "page" %}
-          <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
+          <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
         {% endif %}
       {% endif %}
     {% endfor %}
