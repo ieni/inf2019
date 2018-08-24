@@ -8,4 +8,4 @@ Dit is de pagina voor Scientific Computing: Agent Based Modeling.
 
 ## Testers gezocht
 
-[Meer informatie]( )
+[Meer informatie]({{site.baseurl}}/themas/scientific-computing/testers-gezocht.html)

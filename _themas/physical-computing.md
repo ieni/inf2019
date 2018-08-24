@@ -6,4 +6,4 @@ thema: "physical computing"
 
 Over Physical Computing.
 
-[Tekstbestand downloaden]({{ site.url }}/pages/physical-computing/tekstfile.txt)
+[Tekstbestand downloaden]({{ site.baseurl }}/themas/physical-computing/tekstfile.txt)
