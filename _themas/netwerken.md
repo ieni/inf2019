@@ -1,6 +1,6 @@
 ---
 layout: thema
-title: Netwerken-IoT
+title: "Netwerken"
 thema: netwerken
 ---
 
