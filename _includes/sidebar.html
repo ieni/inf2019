@@ -12,7 +12,7 @@
   <nav class="sidebar-nav">
     <a class="sidebar-nav-item{% if page.title == "Home" %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
     <a class="sidebar-nav-item{% if page.title == "Nieuws" %} active{% endif %}" href="{{ site.baseurl }}/nieuws.html">Nieuws</a>
-    
+
     <span class="sidebar-nav-item">Thema's:</span>
     {% assign themas_list = site.themas %}
     {% for node in themas_list %}
@@ -48,7 +48,7 @@
 
   <div class="sidebar-item">
     <p>
-      &copy; SLO {{ site.time | date: '%Y' }}. Licentie: CC-BY-SA
+      &copy; SLO {{ site.time | date: '%Y' }}. Licentie: CC-BY
     </p>
   </div>
 </div>

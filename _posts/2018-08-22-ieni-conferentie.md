@@ -5,6 +5,4 @@ agendadate: 2018-11-07
 categories: agenda
 ---
 
-Op woensdag 7 en donderdag 8 november vindt de I&I conferentie plaats.
-
-(zie aankondiging... tekst Martin?)
+Op 7 en 8 november vond de i&i conferentie plaats.

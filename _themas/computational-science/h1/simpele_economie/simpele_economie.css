@@ -1,0 +1,19 @@
+html,
+body {
+	height: 100%;
+}
+
+#content {
+	margin: auto;
+	display: flex;
+	width: 1000px;
+}
+
+#instructie {
+	width: 250px;
+}
+
+#model {
+	width: 750px; /* model width + padding + fudge */
+	height: 660px; /* model height + padding + fudge */
+}

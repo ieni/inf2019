@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: CONCEPT CONCEPT
+title: CONCEPT Informatica curriculum 2019
 email: eelco@infvo.com
 description: >- # this means to ignore newlines until "baseurl:"
   VO-Informatica: materiaal voor de keuzethema's.
@@ -28,7 +28,7 @@ markdown: kramdown
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
-  
+
 collections:
   themas:
     output: true
@@ -37,7 +37,7 @@ collections:
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
 exclude:
-  - readme.md 
+  - readme.md
   - Gemfile
   - Gemfile.lock
   - node_modules

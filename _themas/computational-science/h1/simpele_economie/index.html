@@ -1,0 +1,40 @@
+<html>
+	<head>
+		<title>Simpele Economie</title>
+		<link rel="stylesheet" type="text/css" href="simpele_economie.css">
+	</head>
+
+	<body>
+		<div id="content">
+			<div id="instructie">
+				<h1>Simpele Economie</h1>
+
+				<p>
+					Stel jezelf voor wat er zou gebeuren als iedereen elke dag een willekeurig persoon een 	euro zou geven.
+					Gebruik het model om na te gaan of je verwachting klopt.
+				</p>
+				
+				<h2>Verdieping</h2>
+				<p>Natuurlijk komt hier nog wat meer tekst te staan, zeker voor mensen die verdieping zoeken. Bekijk bijvoorbeeld eens de volgende suggesties:</p>
+				<ol>
+				<li>Hoe ontwikkelt de grafiek zich in de tijd?</li>
+				<li>Doe een voorspelling over hoe dit allemaal gaat aflopen.</li>
+				<li>Heb je vaker met dit soort modellen gespeeld?</li>
+				<li>Waarom niet?</li>
+				</ol>
+				<p>Natuurlijk moet je dit allemaal niet serieus nemen, maar dit wel!:<b>Een beetje margin voor onderstaande button zou de layout ten goede komen!</b></p>
+			</div>
+		
+			<!-- waarom hier een iframe? https://stackoverflow.com/questions/8702704/alternative-to-iframes-with-html5#31845361 -->
+			<div id="model">
+				<iframe height="100%" width="100%" src="SimpeleEconomie.html"></iframe>
+			</div>
+		</div>
+
+		<script>
+			var instructie = document.getElementById("instructie");
+			document.getElementById("verberg_instructie").addEventListener("click",function(){instructie.style.display = "none";});
+		</script>
+
+	</body>
+</html>
