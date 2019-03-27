@@ -1,0 +1,43 @@
+html,
+body {
+	height: 100%;
+	font-family: 'Arial','Courier';
+}
+
+h1 {
+	color: darkgreen;
+}
+
+i {
+	color: grey;
+	background-color: #BACFF3;
+}
+
+#content {
+	margin: auto;
+	display: flex;
+	width: 100%;
+}
+
+#instructie {
+	width: 40%;
+	border: 2px solid grey;
+	padding: 1%;
+	margin-right: 2%;
+	margin-left: 2%;
+	background-color: antiquewhite;
+}
+
+#model {
+	width: 750px; /* model width + padding + fudge */
+	height: 660px; /* model height + padding + fudge */
+}
+
+a {
+	color: grey;
+	size: 40px;
+}
+
+span {
+	display: none;
+}

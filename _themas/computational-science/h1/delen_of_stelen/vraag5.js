@@ -5,7 +5,7 @@ class Speler {
 		this.beschrijving = beschrijving;
 		this.deelkans = deelt;
 	}
-	
+
 	deelt(){
 		return this.deelkans >= Math.random() * 100;
 	}
@@ -23,7 +23,7 @@ var tegenstanders = [
 function setup(){
 	// selecteer tegenstander
 	tegenstander = tegenstanders[Math.floor(Math.random() * tegenstanders.length)];
-	
+
 	// presenteer scenario en keuze
 	document.getElementById("situation-tekst").innerHTML = "Voor je zit " + tegenstander.beschrijving + ".";
 	document.getElementById("controls").style.display = 'block';
@@ -35,7 +35,7 @@ function delen(){
 	document.getElementById("controls").style.display = 'none';
 	document.getElementById("resetdiv").style.display = 'block';
 	if (tegenstander.deelt()){
-		document.getElementById("situation-tekst").innerHTML = "Jullie hebben beide gedeelt, dat is heel sympathiek van jullie!";
+		document.getElementById("situation-tekst").innerHTML = "Jullie hebben allebei gedeeld, dat is heel sympathiek van jullie!";
 		document.getElementById("situation-tekst").style.backgroundColor = "green";
 	} else {
 		document.getElementById("situation-tekst").innerHTML = "Je tegenstander heeft gestolen, helaas je had deze tegenstander niet moeten vertrouwen...";

@@ -1,12 +1,10 @@
 ---
 title: Nieuws
 layout: news
-list_title: "Het laatste nieuws"
+list_title: "nieuws"
 ---
 
-Dit is het nieuws.
-
-## Nieuws
+## Berichten
 
 <div>
 {%- if site.posts.size > 0 -%}

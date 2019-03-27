@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Opdracht 15: Game of Life</title>
+
+    <link rel="canonical" href="https://playgameoflife.com/">
+
+    <link rel="stylesheet" type="text/css" href="files/O15.css">
+    <script src="files/mclass-min.js"></script>
+    <script src="files/miq-min.js"></script>
+    <script src="files/gameoflife.js"></script>
+</head>
+<body>
+    <div id="content">
+        <div id="instructie">
+            <h1>Opdracht 15: Game of Life</h1>
+			<p>
+				Ontdek hieronder <b>The Game of Lofe</b> van John Conway. De oorspronkelijke code is te vinden op <a href="https://playgameoflife.com" target="_blank">https://playgameoflife.com</a>
+				en is ontwikkeld en beschikbaar gesteld door (de Nederlander) Edwin Martin.</p>
+		</div>
+		
+		<div id="model">
+            
+<canvas class="gof-canvas" width="1914" height="737" style="left: 3px;"></canvas>
+            <form>
+                <select id="shapes">
+                </select>
+                <input id="next" type="button" value="Next">
+                <input id="start" type="button" value="Start">
+                <label class="generation" title="Generations" aria-label="Generations">0</label>
+                <nowrap>
+                    <img src="files/speeddial.svg" alt="" width="20" height="20">
+                    <input id="speed" type="range" min="10" max="500" step="49" value="10" title="Speed dial" aria-label="Speed dial">
+                </nowrap>
+                <nowrap>
+                    <img src="files/grid.svg" alt="" width="20" height="20">
+                    <input id="size" type="range" min="10" max="25" value="25" title="Grid size" aria-label="Grid size">
+                </nowrap>
+            </form>
+        </div>
+        </div>		
+</body>
+</html>
