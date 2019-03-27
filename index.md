@@ -25,6 +25,5 @@ Als je er in een vroeg stadium mee aan de slag wilt, neem dan contact op met de 
 | Keuzethema | testen | beschikbaar |
 | :---               | :---       | :---          |
 | [Physical computing]({{ site.baseurl }}/themas/physical-computing) | maart 2019 | september 2019 |
-| [Databases]({{ site.baseurl }}/themas/databases.html) | maart 2019 | september 2019 |
-| [Scientific computing: Agent based modeling]({{ site.baseurl }}/themas/scientific-computing) | maart 2019 | september 2019 |
+| [Computational Science: Agent based modeling]({{ site.baseurl }}/themas/scientific-computing) | maart 2019 | september 2019 |
 | [Netwerken-Internet of Things]({{ site.baseurl}}/themas/netwerken.html) | maart 2019 | september 2019 |
