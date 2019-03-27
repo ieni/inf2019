@@ -6,7 +6,7 @@ layout: default
 ---
 
 Het nieuwe examenprogramma voor het HAVO/VWO-vak informatica gaat in per september 2019.
-Momenteel wordt er hard gewerkt aan het ontwikkelen van lesmateriaal hiervoor.
+Momenteel wordt er hard gewerkt aan het lesmateriaal hiervoor.
 De verschillende methodes zorgen voor het materiaal voor het verplichte deel van het programma.
 In opdracht van SLO werken de informatica-vaksteunpunten samen met docententeams aan materiaal voor de keuzethema's.
 
@@ -28,8 +28,3 @@ Als je er in een vroeg stadium mee aan de slag wilt, neem dan contact op met de 
 | [Databases]({{ site.baseurl }}/themas/databases.html) | maart 2019 | september 2019 |
 | [Scientific computing: Agent based modeling]({{ site.baseurl }}/themas/scientific-computing) | maart 2019 | september 2019 |
 | [Netwerken-Internet of Things]({{ site.baseurl}}/themas/netwerken.html) | maart 2019 | september 2019 |
-
-* [Databases]({{ site.baseurl }}/databases.html)
-* [Netwerken-Internet of Things]({{ site.baseurl}}/netwerken.html)
-* [Physical computing]({{ site.baseurl }}/physical-computing)
-* [Scientific computing: Agent based modeling]({{ site.baseurl }}/scientific-computing)
