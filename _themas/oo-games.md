@@ -35,9 +35,9 @@ Ons doel is om eind augustus 2019 een definitieve versie op te leveren met:
 
 Tijdens de SLO-bijeenkomst _Tomorrow starts here_ (3 juni 2019) is een tussenversie van ons materiaal gepresenteerd. Dit materiaal is hier te bekijken:
 
-<i class="far fa-file-pdf"></i> [Lesmateriaal Hoofdstuk 1 & 2](oo-games/Module OO Games CISCO H1 en H2.pdf)
-<i class="far fa-file-archive"></i> [Download HTML/JS werkomgeving](oo-games/OO_omgeving.zip)
-<i class="far fa-link"></i> [Live versie van de HTML/JS werkomgeving](oo-games/OO_omgeving/){:target="_blank"}
+* <i class="far fa-file-pdf"></i> [Lesmateriaal Hoofdstuk 1 & 2](oo-games/Module OO Games CISCO H1 en H2.pdf)
+* <i class="far fa-file-archive"></i> [Download HTML/JS werkomgeving](oo-games/OO_omgeving.zip)
+* <i class="far fa-link"></i> [Live versie van de HTML/JS werkomgeving](oo-games/OO_omgeving/){:target="_blank"}
 
 Houd deze site in de gaten voor de update naar de definitieve versie.
 
