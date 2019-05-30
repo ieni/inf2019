@@ -27,3 +27,4 @@ Als je er in een vroeg stadium mee aan de slag wilt, neem dan contact op met de 
 | [Physical computing]({{ site.baseurl }}/themas/physical-computing) | maart 2019 | september 2019 |
 | [Computational Science: Agent based modeling]({{ site.baseurl }}/themas/scientific-computing) | maart 2019 | september 2019 |
 | [Netwerken-Internet of Things]({{ site.baseurl}}/themas/netwerken.html) | maart 2019 | september 2019 |
+| [OO Games maken en ervaren]({{ site.baseurl }}/themas/oo-games) | | september 2019 |
