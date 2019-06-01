@@ -1,7 +1,7 @@
 ---
 title: "Algoritmiek"
 layout: thema
-thema: algortimiek
+thema: algoritmiek
 ---
 
 **Christian Köppe, Jacqueline Nijenhuis-Voogt, Jacco Gnodde, Renske Smetsers-Weeda**
