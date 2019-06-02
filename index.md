@@ -18,3 +18,6 @@ Het materiaal wordt met zorg samengesteld en getest. SLO en auteurs aanvaarden g
 
 Het materiaal voor de eerste keuzethema's wordt het lopende schooljaar (2018-2019) getest.
 Dit testen gebeurt eerst binnen de ontwikkelteams, daarna door docenten die hiermee in een vroeg stadium aan de slag willen.
+
+*Feedback*, vragen en opmerkingen over het materiaal is -naast het directe kanaal van de ontwikkelaars- te plaatsen op het [i&i forum, onder "lesmateriaal"](https://ieni-forum.infvo.nl/c/lesmateriaal){:target="_blank"}.
+Voor de verschillende thema's zijn daar aparte sub-categorieën.
