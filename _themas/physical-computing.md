@@ -1,7 +1,7 @@
 ---
 title: "Physical Computing"
 layout: thema
-thema: "physical computing"
+thema: "physical-computing"
 ---
 
 Het materiaal voor het thema Physical Computing is te vinden op [wikiwijs: Physical Computing](https://maken.wikiwijs.nl/135434/Physical_Computing_geheel){:target="_blank"}
