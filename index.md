@@ -11,19 +11,10 @@ De verschillende methodes zorgen voor het materiaal voor het verplichte deel van
 In opdracht van SLO werken de informatica-vaksteunpunten samen met docententeams aan materiaal voor de keuzethema's.
 
 Deze website geeft toegang tot het materiaal voor de keuzethema's.
-SLO stelt dit materiaal beschikbaar onder de Creative Commons BY licentie (CC-BY).
+Het copyright van het materiaal berust bij SLO.
+SLO stelt dit materiaal beschikbaar onder de Creative Commons BY licentie (CC-BY): [https://creativecommons.org/licenses/by/4.0/deed.nl](https://creativecommons.org/licenses/by/4.0/deed.nl){:target="_blank"}.
 
-Het materiaal wordt het lopende schooljaar (2018-2019) getest.
+Het materiaal wordt met zorg samengesteld en getest. SLO en auteurs aanvaarden geen enkele aansprakelijkheid voor onjuistheden en/of onvolledigheden in dit materiaal.
+
+Het materiaal voor de eerste keuzethema's wordt het lopende schooljaar (2018-2019) getest.
 Dit testen gebeurt eerst binnen de ontwikkelteams, daarna door docenten die hiermee in een vroeg stadium aan de slag willen.
-
-## Keuzethema's
-
-In de onderstaande tabel geeft "testen" aan wanneer het materiaal beschikbaar is voor testen.
-Als je er in een vroeg stadium mee aan de slag wilt, neem dan contact op met de ontwikkelaars.
-"Beschikbaar" geeft een indicatie wanneer het materiaal getest is en beschikbaar is voor algemeen gebruik.
-
-| Keuzethema | testen | beschikbaar |
-| :---               | :---       | :---          |
-| [Physical computing]({{ site.baseurl }}/themas/physical-computing) | maart 2019 | september 2019 |
-| [Computational Science: Agent based modeling]({{ site.baseurl }}/themas/scientific-computing) | maart 2019 | september 2019 |
-| [Netwerken-Internet of Things]({{ site.baseurl}}/themas/netwerken.html) | maart 2019 | september 2019 |

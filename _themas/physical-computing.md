@@ -1,7 +1,7 @@
 ---
 title: "Physical Computing"
 layout: thema
-thema: "physical computing"
+thema: "physical-computing"
 ---
 
 Het materiaal voor het thema Physical Computing is te vinden op [wikiwijs: Physical Computing](https://maken.wikiwijs.nl/135434/Physical_Computing_geheel){:target="_blank"}
@@ -17,9 +17,9 @@ Jelmer de Boer, Martin Bruggink, Eelco Dijkstra, Leen de Gelder, Hans Konings, R
 ## Contact
 
 Wij waarderen alle mogelijk feedback van docenten en leerlingen.
-U en uw leerlingen kunnen via de website op elke pagina feedback geven via het formulier onderaan de pagina.
 Wij gebruiken deze feedback om de module aan te vullen en te verbeteren.
 Ook voor vragen kunt u ons bereiken op onderstaande e-mailadres.
+Daar kunt u ook de uitwerkingen van de opdrachten opvragen.
 
 ![mailadres]({{site.baseurl}}/themas/physical-computing/contactadres.png)
 
@@ -37,4 +37,4 @@ Het materiaal is uitgewerkt voor Micro:bit, Arduino en Lego Mindstorms.
 
 ## Status materiaal (april 2019)
 
-P.M.
+Versie 1.0 is beschikbaar.
