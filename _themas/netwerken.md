@@ -9,11 +9,14 @@ Het materiaal voor het keuzethema Netwerken/Internet of Things is te vinden op:
 
 Ook de docentenhandleiding is daar te vinden.
 
+Aanvullend materiaal is te vinden op:
+[inleiding communicatie - Com-0 ](https://infvo.github.io/com-0){:target="_blank"} en
+[verdieping IoT - IoT-1](https://infvo.github.io/iot-1){:target="_blank"}.
+
 ## Ontwikkelteam
 
-Deze module is in opdracht van SLO ontwikkeld door:
-
-Hakan Akkas, Otger van Delft, Eelco Dijkstra,  Miriam de Leeuw, en Ramon Moorlag
+Deze module is in opdracht van SLO ontwikkeld door: Hakan Akkas, Otger van Delft,
+Eelco Dijkstra,  Miriam de Leeuw, en Ramon Moorlag.
 
 ## Contact
 
@@ -25,20 +28,6 @@ Daarnaast is op het [i&i-forum](https://forum.ieni.org){:target="_blank"} een pl
 
 ## Opzet van het materiaal
 
-De hoofdlijn van het materiaal is:
-
-P.M.
-
-## Status materiaal (mei 2019)
-
-Het materiaal is nu nog in een testfase.
-Docenten die dit met leerlingen willen testen, ook voor een deel, zijn van harte welom!.
-
-(Gepland: 1.0 beschikbaar per 1 september)
-
-
-**Eelco Dijkstra**, coördinator vaksteunpunt Informatica - Betapartners Amsterdam
-
 Het keuzethema Netwerken heeft als context: het Internet of Things (IoT).
 Het motto van het lesmateriaal is: *het IoT, dat maak je zelf*.
 Net als bij het web zijn er veel mogelijkheden voor leerlingen om zelf toepassingen voor het IoT te maken.
@@ -48,8 +37,9 @@ zoals een web-app als IoT-interface,
 waarbij onder meer databases,
 externe diensten en "user experience" een rol spelen.
 
-Na de inleiding met een overzicht van het lesmateriaal gaan de deelnemers in deze sessie praktisch met het lesmateriaal aan de slag.
-Het belangrijkste doel daarbij is het verbinden van een eenvoudige dashboard-toepassing aan verschillende soorten IoT-knopen, gesimuleerd en in hardware, lokaal en op afstand.
-Hierbij wordt gebruik gemaakt van [NodeRed](https://nodered.org).
+## Status materiaal (mei 2019)
 
-Voor dit praktische deel is het nodig om een eigen laptop mee te nemen. Ook is het handig om van te voren een (gratis) NodeRed-account aan te maken via [FRED](https://fred.sensetecnic.com).
+Het materiaal is nog in een testfase.
+Docenten die dit met leerlingen willen testen, ook voor een deel, zijn van harte welkom!
+
+(Gepland: 1.0 beschikbaar per 1 september)
