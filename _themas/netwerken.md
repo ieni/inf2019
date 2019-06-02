@@ -4,6 +4,39 @@ title: "Netwerken-IoT"
 thema: netwerken
 ---
 
+Het materiaal voor het keuzethema Netwerken/Internet of Things is te vinden op:
+[netwerken - IoT-0](https://infvo.github.io/iot-0){:target="_blank"}
+
+Ook de docentenhandleiding is daar te vinden.
+
+## Ontwikkelteam
+
+Deze module is in opdracht van SLO ontwikkeld door:
+
+Hakan Akkas, Otger van Delft, Eelco Dijkstra,  Miriam de Leeuw, en Ramon Moorlag
+
+## Contact
+
+Wij waarderen alle mogelijk feedback van docenten en leerlingen.
+Wij gebruiken deze feedback om de module aan te vullen en te verbeteren.
+Deze feedback kunt u bij de pagina's zelf plaatsen (via hypothes.is, rechts boven).
+Daarnaast is op het [i&i-forum](https://forum.ieni.org){:target="_blank"} een plek voor vragen en feedback:
+[lesmateriaal/IoT-module](https://ieni-forum.infvo.nl/c/lesmateriaal/Internet-of-Things-module){:target="_blank"}.
+
+## Opzet van het materiaal
+
+De hoofdlijn van het materiaal is:
+
+P.M.
+
+## Status materiaal (mei 2019)
+
+Het materiaal is nu nog in een testfase.
+Docenten die dit met leerlingen willen testen, ook voor een deel, zijn van harte welom!.
+
+(Gepland: 1.0 beschikbaar per 1 september)
+
+
 **Eelco Dijkstra**, coördinator vaksteunpunt Informatica - Betapartners Amsterdam
 
 Het keuzethema Netwerken heeft als context: het Internet of Things (IoT).
@@ -20,5 +53,3 @@ Het belangrijkste doel daarbij is het verbinden van een eenvoudige dashboard-toe
 Hierbij wordt gebruik gemaakt van [NodeRed](https://nodered.org).
 
 Voor dit praktische deel is het nodig om een eigen laptop mee te nemen. Ook is het handig om van te voren een (gratis) NodeRed-account aan te maken via [FRED](https://fred.sensetecnic.com).
-
-[Cursus Amsterdam]({{ site.baseurl }}/themas/netwerken/iot-cursus-amsterdam-2018.html)
