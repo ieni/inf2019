@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Aftrap nieuwe examenprogramma - save the date!"
+title:  "Aftrap nieuwe examenprogramma - 23 september a.s."
 agendadate: 2019-09-23
 categories:
 ---
