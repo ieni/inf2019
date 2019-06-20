@@ -4,7 +4,7 @@ layout: thema
 thema: user-experience
 ---
 
-Het materiaal voor de module User Experience is te vinden via de [leeswijzer](ux-leeswijzer).
+Het materiaal voor de module User Experience is te vinden via de [leeswijzer]({{ site.baseurl }}/themas/user-experience/ux-leeswijzer).
 Dit materiaal is bedoeld als invulling van Domein P: keuzethema User Experience.
 
 ## Ontwikkelteam
@@ -24,11 +24,11 @@ Daar kunt u ook de uitwerkingen van de opdrachten opvragen.
 
 ## Opzet van het materiaal
 
-De opzet van het materiaal is te vinden in de [leeswijzer](ux-leeswijzer).
+De opzet van het materiaal is te vinden in de [leeswijzer]({{ site.baseurl }}/themas/user-experience/ux-leeswijzer).
 
 ## Aanvullend materiaal
 
-* [Workshop i&i conferentie 2018](ieni2018)
+* [Workshop i&i conferentie 2018]({{ site.baseurl }}/themas/user-experience/ieni2018)
 
 ## Status materiaal
 
