@@ -4,24 +4,35 @@ layout: thema
 thema: user-experience
 ---
 
-**Gerrit Jan de Wilde en Dirk-Jan van de Poppe**
+Het materiaal voor de module User Experience is te vinden via de [leeswijzer](ux-leeswijzer).
+Dit materiaal is bedoeld als invulling van Domein P: keuzethema User Experience.
 
-[Presentatie workshop]({{ site.baseurl }}/themas/user-experience/dewilde-user-experience.pdf){:target="_blank"}
+## Ontwikkelteam
 
-Het nieuwe examenprogramma bestaat uit een kernprogramma en een aantal keuzemodules.
-Voor de havo zijn twee en voor het VWO zijn vier keuzemodules verplicht.
-“User Experience” (afgekort UX) is één van die keuzemodules.
+Deze module is in opdracht van SLO ontwikkeld door:
 
-### Wat is UX?
-User Experience is het vakgebied dat zich richt op alles wat te maken heeft met de ervaring van een gebruiker met een product,
-website of APP.
+(teamleden)
 
-### Wat we tijdens de workshop aan UX gaan doen
+## Contact
 
-De workshop is een kennismaking met het nieuw ontwikkelde lesmateriaal en zal zowel bestaan uit een blok “Analyse” alsook uit een blok “Ontwerp”.
-Bij het eerste blok worden leerzame praktijkvoorbeelden getoond, en verbeteringen gezocht aan de hand van de regels van Nielsen.
-In het volgende praktische blok “ontwerp” wordt daadwerkelijk een App ontworpen en geëvalueerd.
-Vervolgens wordt op digitale wijze een testomgeving voor de te ontwikkelen APP gebruikt en heeft u een goede indruk wat het keuzedomein “User Experience” inhoudt.
-Het lesmateriaal wordt na afloop aan de deelnemers beschikbaar gesteld.
-De beide docenten die de workshop geven hebben deze module vorig cursusjaar in hun eigen informaticalessen uitgetest,
-en willen graag hun ervaringen met u delen. U bent van harte welkom.
+Wij waarderen alle mogelijk feedback van docenten en leerlingen.
+Wij gebruiken deze feedback om de module aan te vullen en te verbeteren.
+Ook voor vragen kunt u ons bereiken op onderstaande e-mailadres.
+Daar kunt u ook de uitwerkingen van de opdrachten opvragen.
+
+(mailadres)
+
+## Opzet van het materiaal
+
+De opzet van het materiaal is te vinden in de [leeswijzer](ux-leeswijzer).
+
+## Aanvullend materiaal
+
+* [Workshop i&i conferentie 2018](ieni2018)
+
+## Status materiaal
+
+Alle materialen, met uitzondering van de emotieherkenning opdracht, zijn op meerdere scholen getest en aan de hand daarvan bijgesteld.
+De externe tests op scholen die bij de ontwikkeling betrokken zijn vinden plaats in semester 2 van het schooljaar 2018-2019.
+Aan de hand daarvan vinden de laatste **redactionele bijstellingen** plaats.
+(Met andere woorden, het materiaal is grotendeels getest en direct bruikbaar, maar wordt nog aangepast.)
