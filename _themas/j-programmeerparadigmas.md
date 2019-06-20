@@ -1,7 +1,7 @@
 ---
-title: "Functioneel programmeren"
+title: "J. Programmeerparadigma's"
 layout: thema
-thema: "functioneel programmeren"
+thema: "programmeerparadigma's"
 ---
 
 **Jacco Gnodde en Hans van den Burg**

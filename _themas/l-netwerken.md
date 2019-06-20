@@ -1,10 +1,10 @@
 ---
 layout: thema
-title: "Netwerken-IoT"
+title: "L. Netwerken"
 thema: netwerken
 ---
 
-Het materiaal voor het keuzethema Netwerken/Internet of Things is te vinden op:
+Het materiaal voor het keuzethema Netwerken: Internet of Things is te vinden op:
 [netwerken - IoT-0](https://infvo.github.io/iot-0){:target="_blank"}
 
 Ook de docentenhandleiding is daar te vinden.

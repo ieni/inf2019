@@ -1,5 +1,5 @@
 ---
-title: "Physical Computing"
+title: "M. Physical Computing"
 layout: thema
 thema: "physical-computing"
 ---
