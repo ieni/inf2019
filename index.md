@@ -16,7 +16,7 @@ SLO stelt dit materiaal beschikbaar onder de Creative Commons BY licentie (CC-BY
 
 | Domein | Thema | Status
 | :---   | :---  | :---
-| G | Algoritmiek, berekenbaarheid en logica | [In ontwikkeling](themas/g-algoritmiek.md)
+| G | Algoritmiek, berekenbaarheid en logica | [In ontwikkeling](_themas/g-algoritmiek.md)
 | H | Databases | [Beschikbaar](themas/h-databases.md)
 | I | Cognitive Computing| Nog op te starten
 | J | Programmeerparadigma's | [In ontwikkeling](themas/j-programmeerparadigmas.md) <br> [In ontwikkeling](themas/oo-games.md)
