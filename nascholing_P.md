@@ -1,12 +1,11 @@
 ---
 title: Nascholing User experience (domein P)
 layout: default
-list_title: "nascholing_L"
+list_title: "nascholing_P"
 ---
 
 # User experience (domein P)
- 
-2 bijeenkomsten: 20 sep, 11 okt
+2 bijeenkomsten in 2019: 20 sep, 11 okt
 
 User Experience is het vakgebied dat zich richt op alles wat te maken heeft met de ervaring van een gebruiker met een product, website of APP.  De cursus is een kennismaking met het nieuw ontwikkelde lesmateriaal en zal bestaan uit een deel “Analyse” en een deel “Ontwerp”. Voor analyse worden leerzame praktijkvoorbeelden getoond, en verbeteringen gezocht aan de hand van de regels van Nielsen. In het ontwerp-deel wordt daadwerkelijk een app ontworpen en geëvalueerd. Vervolgens wordt op digitale wijze een testomgeving voor de te ontwikkelen APP gebruikt en heeft u een goede indruk wat het keuzedomein “User Experience” inhoudt. Tijdens de cursus worden ook ervaringen bij het testen van het materiaal gedeeld.
 
