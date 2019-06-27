@@ -17,17 +17,17 @@ SLO stelt dit materiaal beschikbaar onder de Creative Commons BY licentie (CC-BY
 | Domein | Thema | Status
 | :---   | :---  | :---
 | G | Algoritmiek, berekenbaarheid en logica | [In ontwikkeling](_themas/g-algoritmiek.md)
-| H | Databases | [Beschikbaar](themas/h-databases.md)
+| H | Databases | [Beschikbaar](_themas/h-databases.md)
 | I | Cognitive Computing| Nog op te starten
-| J | Programmeerparadigma's | [In ontwikkeling](themas/j-programmeerparadigmas.md) <br> [In ontwikkeling](themas/oo-games.md)
+| J | Programmeerparadigma's | [In ontwikkeling](_themas/j-programmeerparadigmas.md) <br> [In ontwikkeling](_themas/oo-games.md)
 | K | Computerarchitectuur | Nog op te starten
-| L | Netwerken | [Beschikbaar](themas/l-netwerken.md)
-| M | Physical computing | [Beschikbaar](themas/m-physical-computing.md)
+| L | Netwerken | [Beschikbaar](_themas/l-netwerken.md)
+| M | Physical computing | [Beschikbaar](_themas/m-physical-computing.md)
 | N | Security | Nog op te starten
 | O | Usability | In ontwikkeling
-| P | User experience | [In ontwikkeling](themas/p-user-experience.md) <br> [In ontwikkeling](themas/gamedesign.md)
+| P | User experience | [In ontwikkeling](_themas/p-user-experience.md) <br> [In ontwikkeling](_themas/gamedesign.md)
 | Q | Maatschappelijke en individuele invloed van informatica | In ontwikkeling
-| R | Computational science |[Beschikbaar](themas/r-computational-science.md)
+| R | Computational science |[Beschikbaar](_themas/r-computational-science.md)
 
 Het materiaal wordt met zorg samengesteld en getest. SLO en auteurs aanvaarden geen enkele aansprakelijkheid voor onjuistheden en/of onvolledigheden in dit materiaal.
 
