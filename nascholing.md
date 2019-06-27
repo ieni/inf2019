@@ -32,7 +32,7 @@ In september 2019 start een reeks van cursussen over de keuzethema’s en bijbeh
 
 De cursussen gaan uit van het lesmateriaal dat voor het specifieke domein is ontwikkeld. U leert dus over de vakinhoud en over de didactiek, op basis van het ontwikkelde lesmateriaal. Op deze manier kunt u zich goed voorbereiden op het implementeren van het keuzethema in de klas.
 
-Hieronder vindt u meer informatie over de afzonderlijke cursussen. De inschrijving voor deze cursussen is nu geopend, zie: www.boswell-beta.nl/nascholing-informatica 
+Hieronder vindt u meer informatie over de afzonderlijke cursussen. De inschrijving voor deze cursussen is nu geopend, zie: [www.boswell-beta.nl/nascholing-informatica](https://www.boswell-beta.nl/nascholing-informatica)
 
 ## Doelgroep
 
@@ -51,7 +51,7 @@ De cursussen zijn het najaar 2019 op vrijdagmiddag, van 14.00 – 17.30 uur.
 ## Inschrijven
 
 U kunt zich voor één of meerdere cursussen aanmelden. De deadline voor inschrijving is 2 weken van te voren. Voor cursussen die gelijk na de zomer starten is de deadline 1 week van te voren. Een cursus gaat alleen door bij 10 of meer deelnemers.
-Inschrijven kan via de site van Boswell-Bèta: http://www.boswell-beta.nl/nascholing-informatica.
+Inschrijven kan via [de site van Boswell-Bèta](https://www.boswell-beta.nl/nascholing-informatica).
 
 ## Kosten
 
