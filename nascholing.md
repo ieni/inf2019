@@ -5,7 +5,7 @@ list_title: "nascholing"
 ---
 
 # Nascholing informatica keuzethema's
-September 2019 start het nieuwe examenprogramma havo/vwo voor informatica. Binnen dat examenprogramma zijn 12 keuzethema’s gedefinieerd. Voor elk keuzethema wordt onder coördinatie van SLO een uitgebreide lesmodule ontwikkeld. Daarnaast bieden we voor elk keuzethema een 3- of 4-delige cursus aan. Docenten informatica kunnen zich op die manier verdiepen in de inhoud en didactiek van de modules. 
+September 2019 start het nieuwe examenprogramma havo/vwo voor informatica. Binnen dat examenprogramma zijn 12 keuzethema’s gedefinieerd. Voor elk keuzethema wordt onder coördinatie van SLO een uitgebreide lesmodule ontwikkeld. Daarnaast bieden we voor elk keuzethema een 3- of 4-delige cursus aan. Docenten informatica kunnen zich op die manier verdiepen in de inhoud en didactiek van de modules.
 
 De eerste vier cursussen vinden in het najaar 2019 plaats (zie meer informatie hieronder). Het is onze ambitie om in de komende drie jaar alle keuzethema’s twee keer aan bod te laten komen. De nascholing wordt inhoudelijk gegeven door de ontwikkelaars van de modules, dat zijn meestal vakdidactici informatica samen met één of twee docenten uit het VO.
 
@@ -17,7 +17,7 @@ Deze nascholing wordt aangeboden vanuit de verschillende universiteiten en HBO�
 * Technische Universiteit Eindhoven
 * Technische Universiteit Delft
 * Fontys Hogeschool
-* Bètapartners Amsterdam (samenwerking tussen UvA, VU, HvA en Inholland)
+* Bètapartners Amsterdam (samenwerking tussen VO-scholen, VU en UvA)
 * Onderwijsnetwerk Zuid-Holland (samenwerking  tussen TU Delft, Universiteit Leiden, Haagsche Hogeschool, Hogeschool Rotterdam, Inholland, Hogeschool Leiden, Erasmus Universiteit)
 * Vakvereniging I&I
 * SLO
@@ -25,10 +25,10 @@ Deze nascholing wordt aangeboden vanuit de verschillende universiteiten en HBO�
 ## Inschrijving nu geopend
 In september 2019 start een reeks van cursussen over de keuzethema’s en bijbehorende lesmodules voor het nieuwe examenprogramma. We starten het najaar 2019 met 4 cursussen voor de volgende keuzethema’s:
 
-* [Domein L Netwerken (Internet of Things)](nascholing_L.md)   (4 bijeenkomsten)
-* [Domein M Physical computing](nascholing_M.md) (3 bijeenkomsten)
-* [Domein P User experience](nascholing_P.md) (2 bijeenkomsten)
-* [Domein R Computational science](nascholing_R.md) (4 bijeenkomsten)
+* [Domein L Netwerken (Internet of Things)](nascholingen/nascholing_L)   (4 bijeenkomsten)
+* [Domein M Physical computing](nascholingen/nascholing_M) (3 bijeenkomsten)
+* [Domein P User experience](nascholingen/nascholing_P) (2 bijeenkomsten)
+* [Domein R Computational science](nascholingen/nascholing_R) (4 bijeenkomsten)
 
 De cursussen gaan uit van het lesmateriaal dat voor het specifieke domein is ontwikkeld. U leert dus over de vakinhoud en over de didactiek, op basis van het ontwikkelde lesmateriaal. Op deze manier kunt u zich goed voorbereiden op het implementeren van het keuzethema in de klas.
 
