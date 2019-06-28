@@ -15,4 +15,4 @@ De cursus wordt gegeven door Ingrid Breymann, vakdidacticus informatica Universi
 
 Voor inschrijving, ga naar: [http://www.boswell-beta.nl/nascholing-informatica](http://www.boswell-beta.nl/nascholing-informatica)
 
-[Ga terug naar nascholingen]({{site/baseurl}}/nascholing)
+[Ga terug naar nascholingen]({{site.baseurl}}/nascholing)
