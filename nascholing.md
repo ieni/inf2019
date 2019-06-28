@@ -26,7 +26,7 @@ Deze nascholing wordt aangeboden vanuit de verschillende universiteiten en HBO�
 In september 2019 start een reeks van cursussen over de keuzethema’s en bijbehorende lesmodules voor het nieuwe examenprogramma. We starten het najaar 2019 met 4 cursussen voor de volgende keuzethema’s:
 
 * [Domein L Netwerken (Internet of Things)](nascholingen/nascholing_L)   (4 bijeenkomsten)
-* [Domein M Physical computing](naschlingen/nascholing_M) (3 bijeenkomsten)
+* [Domein M Physical computing](nascholingen/nascholing_M) (3 bijeenkomsten)
 * [Domein P User experience](nascholingen/nascholing_P) (2 bijeenkomsten)
 * [Domein R Computational science](nascholingen/nascholing_R) (4 bijeenkomsten)
 
