@@ -2,6 +2,7 @@
 title: Nascholing Physical Computing (domein M)
 layout: default
 list_title: "nascholing_M"
+thema: "nascholing"
 ---
 
 # Physical Computing (domein M)

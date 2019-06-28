@@ -2,6 +2,7 @@
 title: Nascholing Netwerken (domein L)
 layout: default
 list_title: "nascholing_L"
+thema: "nascholing"
 ---
 
 # Netwerken (domein L)

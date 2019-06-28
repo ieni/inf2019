@@ -2,6 +2,7 @@
 title: Computational science (domein_R)
 layout: default
 list_title: "nascholing_R"
+thema: "nascholing"
 ---
 
 # Computational science (domein R)

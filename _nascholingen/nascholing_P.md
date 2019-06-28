@@ -2,6 +2,7 @@
 title: Nascholing User experience (domein P)
 layout: default
 list_title: "nascholing_P"
+thema: "nascholing"
 ---
 
 # User experience (domein P)
