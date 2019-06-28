@@ -17,4 +17,4 @@ De cursus wordt gegeven door Martin Bruggink, vakdidacticus informatica TU Delft
 
 Voor inschrijving, ga naar: [http://www.boswell-beta.nl/nascholing-informatica](http://www.boswell-beta.nl/nascholing-informatica)
 
-[Ga terug naar nascholingen](nascholing.md)
+[Ga terug naar nascholingen]({{site.baseurl}}/nascholing)

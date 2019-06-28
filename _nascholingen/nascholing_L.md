@@ -5,7 +5,7 @@ list_title: "nascholing_L"
 ---
 
 # Netwerken (domein L)
- 
+
 4 bijeenkomsten in 2019: 27 sep, 15 nov, 29 nov, 6 dec <br>
 De bijeenkomsten zijn op vrijdagmiddag, van 14.00 – 17.30 uur. <br>
 Kosten: 250 euro
@@ -18,4 +18,4 @@ De cursus wordt gegeven door Eelco Dijkstra, vaksteunpuntcoördinator Amsterdam,
 
 Voor inschrijving, ga naar: [http://www.boswell-beta.nl/nascholing-informatica](http://www.boswell-beta.nl/nascholing-informatica)
 
-[Ga terug naar nascholingen](nascholing.md)
+[Ga terug naar nascholingen]({{site.baseurl}}/nascholing)

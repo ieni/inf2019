@@ -15,4 +15,4 @@ De cursus wordt gegeven door Nataša Grgurina, vakdidacticus informatica van de 
 
 Voor inschrijving, ga naar: [http://www.boswell-beta.nl/nascholing-informatica](http://www.boswell-beta.nl/nascholing-informatica)
 
-[Ga terug naar nascholingen](nascholing.md)
+[Ga terug naar nascholingen]({{ site.baseurl }}/nascholing)
