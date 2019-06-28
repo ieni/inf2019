@@ -2,6 +2,7 @@
 title: Nascholing
 layout: default
 list_title: "nascholing"
+thema: "nascholing"
 ---
 
 # Nascholing informatica keuzethema's

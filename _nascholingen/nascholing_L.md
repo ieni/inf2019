@@ -18,5 +18,3 @@ Op basis van deze cursus kunnen docenten hun leerlingen begeleiden bij het gebru
 De cursus wordt gegeven door Eelco Dijkstra, vaksteunpuntcoördinator Amsterdam, mede-ontwikkelaar van de module Internet of Things.
 
 Voor inschrijving, ga naar: [http://www.boswell-beta.nl/nascholing-informatica](http://www.boswell-beta.nl/nascholing-informatica)
-
-[Ga terug naar nascholingen]({{site.baseurl}}/nascholing)

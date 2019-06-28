@@ -17,5 +17,3 @@ Het doel van de nascholing is dat u als docent informatica vertrouwd raakt met h
 De cursus wordt gegeven door Martin Bruggink, vakdidacticus informatica TU Delft, mede-ontwikkelaar van de module Physical Computing.
 
 Voor inschrijving, ga naar: [http://www.boswell-beta.nl/nascholing-informatica](http://www.boswell-beta.nl/nascholing-informatica)
-
-[Ga terug naar nascholingen]({{site.baseurl}}/nascholing)

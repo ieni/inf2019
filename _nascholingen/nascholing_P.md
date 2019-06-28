@@ -15,5 +15,3 @@ User Experience is het vakgebied dat zich richt op alles wat te maken heeft met 
 De cursus wordt gegeven door Ingrid Breymann, vakdidacticus informatica Universiteit Twente, en Jan-Willem van ’t Klooster, mede-ontwikkelaar van de module User Experience.
 
 Voor inschrijving, ga naar: [http://www.boswell-beta.nl/nascholing-informatica](http://www.boswell-beta.nl/nascholing-informatica)
-
-[Ga terug naar nascholingen]({{site.baseurl}}/nascholing)
