@@ -1,5 +1,5 @@
 ---
-title: "Algoritmiek"
+title: "G. Algoritmiek, berekenbaarheid en logica"
 layout: thema
 thema: algoritmiek
 ---
