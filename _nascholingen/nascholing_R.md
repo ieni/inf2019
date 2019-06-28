@@ -1,5 +1,5 @@
 ---
-title:Computational science (domein_R)
+title: Computational science (domein_R)
 layout: default
 list_title: "nascholing_R"
 ---
