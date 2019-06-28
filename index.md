@@ -25,7 +25,7 @@ SLO stelt dit materiaal beschikbaar onder de Creative Commons BY licentie (CC-BY
 | M | Physical computing | [Beschikbaar](_themas/m-physical-computing.md)
 | N | Security | Nog op te starten
 | O | Usability | In ontwikkeling
-| P | User experience | [In ontwikkeling](_themas/p-user-experience.md) <br> [In ontwikkeling](_themas/gamedesign.md)
+| P | User experience | [Beschikbaar](_themas/p-user-experience.md) <br> [In ontwikkeling](_themas/gamedesign.md)
 | Q | Maatschappelijke en individuele invloed van informatica | In ontwikkeling
 | R | Computational science |[Beschikbaar](_themas/r-computational-science.md)
 
