@@ -2,6 +2,7 @@
 title: Computational science (domein_R)
 layout: default
 list_title: "nascholing_R"
+thema: "nascholing"
 ---
 
 # Computational science (domein R)
@@ -14,5 +15,3 @@ Bij Computational Science benadrukken we hoe informatica gebruikt kan worden bin
 De cursus wordt gegeven door Nataša Grgurina, vakdidacticus informatica van de Universiteit Groningen en mede-ontwikkelaar van het module Computational Science.
 
 Voor inschrijving, ga naar: [http://www.boswell-beta.nl/nascholing-informatica](http://www.boswell-beta.nl/nascholing-informatica)
-
-[Ga terug naar nascholingen]({{ site.baseurl }}/nascholing)

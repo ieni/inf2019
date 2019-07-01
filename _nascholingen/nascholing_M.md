@@ -2,6 +2,7 @@
 title: Nascholing Physical Computing (domein M)
 layout: default
 list_title: "nascholing_M"
+thema: "nascholing"
 ---
 
 # Physical Computing (domein M)
@@ -16,5 +17,3 @@ Het doel van de nascholing is dat u als docent informatica vertrouwd raakt met h
 De cursus wordt gegeven door Martin Bruggink, vakdidacticus informatica TU Delft, mede-ontwikkelaar van de module Physical Computing.
 
 Voor inschrijving, ga naar: [http://www.boswell-beta.nl/nascholing-informatica](http://www.boswell-beta.nl/nascholing-informatica)
-
-[Ga terug naar nascholingen]({{site.baseurl}}/nascholing)
