@@ -22,7 +22,7 @@ Het materiaal van het keuzethema Databases bestaat uit de volgende onderdelen:
 
 * [inleiding en overzicht](https://infvo.github.io/db-0){:target="_blank"}
 * [interactieve cursus SQL](https://sql.informaticavo.nl){:target="_blank"}
-* [database-ontwerp]()
+* [database-ontwerp]( https://creatief.github.io/){:target="_blank"}
 * [NoSQL en Linked Data](https://infvo.github.io/nosql-ld){:target="_blank"}
 * project (zo mogelijk combineren met andere thema's)
 
