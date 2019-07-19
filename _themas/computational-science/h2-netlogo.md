@@ -14,7 +14,7 @@ Dit .zip-archief bevat alle bestanden die je nodig hebt bij hoofdstuk 2.
 
 Je kunt ook een specifiek model (opnieuw) downloaden:
 
-* <i class="fa fa-file" aria-hidden="true"></i  [Opgave 02](leerlingen/h2/NetLogo_opdrachten/H2opg2.nlogo)
+* <i class="fa fa-file" aria-hidden="true"></i>  [Opgave 02](leerlingen/h2/NetLogo_opdrachten/H2opg2.nlogo)
 * <i class="fa fa-file" aria-hidden="true"></i> [Opgave 04](leerlingen/h2/NetLogo_opdrachten/H2opg4.nlogo)
 * <i class="fa fa-file" aria-hidden="true"></i> [Opgave 05](leerlingen/h2/NetLogo_opdrachten/H2opg5.nlogo)
 * <i class="fa fa-file" aria-hidden="true"></i> [Opgave 07](leerlingen/h2/NetLogo_opdrachten/H2opg7.nlogo)
