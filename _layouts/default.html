@@ -34,7 +34,14 @@
 
             <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
             {% if page.thema != null %}
-              <small>{{ page.thema }}</small>
+              {% if page.thema == "nascholing" %}
+                <small> <a href="{{ site.baseurl }}/nascholing"> nascholing </a></small>
+              {% else %}
+                <small> <a href="{{ site.baseurl }}/themas/{{ page.thema }}"> {{ page.thema }} </a></small>
+                {% if page.subthema != null %}
+                <small> >> <a href="{{ site.baseurl }}/themas/{{ page.thema }}/{{ page.subthema }}"> {{ page.subthema }} </a></small>
+               {% endif %}
+              {% endif %}
             {% else %}
               <small>{{ site.tagline }}</small>
             {% endif %}

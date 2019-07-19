@@ -1,7 +1,8 @@
 ---
 title: "H1: Modellen"
 layout: subthema
-thema: "computational science"
+thema: "computational-science"
+subthema: "h1-modellen"
 ---
 
 Bij enkele opdrachten zijn er extra bestanden/hulpmiddelen nodig, deze staan onder [bestanden en webtools](#bestanden-en-webtools).
