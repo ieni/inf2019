@@ -1,5 +1,5 @@
 ---
-title: "Docenten Materiaal"
+title: "Materialen docent"
 layout: subthema
 thema: "computational science"
 ---
@@ -26,7 +26,7 @@ Hieronder staan enkel de extra bestanden voor docenten uitgesplitst per hoofdstu
 Omdat leerlingen deze pagina kunnen benaderen hebben we ervoor gekozen de toetsen hier niet te plaatsen.
 De toetsen zijn te vinden op: ****
 
-* <i class="fa fa-file-archive" aria-hidden="true"></i> [Module ABM Compleet](docent/compleet.zip)
+* <i class="fa fa-file-archive" aria-hidden="true"></i> [Module ABM Compleet](docent/Module_ABM_compleet.zip)
 
 ### Hoofstuk 1: Modellen
 
