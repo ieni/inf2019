@@ -1,0 +1,48 @@
+html,
+body {
+	font-family: 'Arial','Courier';
+}
+
+h1 {
+	color: darkgreen;
+}
+
+i {
+	color: grey;
+	background-color: #BACFF3;
+}
+
+#content {
+	display: block;
+	width: 100%;
+	height: auto;
+}
+
+#instructie {
+	width: 96%;
+	border: 2px solid grey;
+	padding: 1%;
+	margin-bottom: 1%;
+	background-color: antiquewhite;
+}
+
+#model {
+	padding: 0%;
+	margin: 0%;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.gof-canvas {
+	width: 98%;
+	height: 98%;
+}
+
+a {
+	color: grey;
+	size: 40px;
+}
+
+span {
+	display: none;
+}

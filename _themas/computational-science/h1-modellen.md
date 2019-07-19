@@ -4,6 +4,8 @@ layout: subthema
 thema: "computational science"
 ---
 
+## Hulpmiddelen
+
 Bij enkele opdrachten zijn er extra bestanden/hulpmiddelen nodig, deze staan onder [bestanden en webtools](#bestanden-en-webtools).
 In de PDF wordt af-en-toe ook verwezen naar video's, klikken op het video-icoon zou de betreffende video in een browser moeten laden.
 Mocht dat om wat voor reden dan ook niet praktisch of bruikbaar zijn dan staan die links ook allemaal hieronder bij [videos](#videos).
@@ -13,15 +15,15 @@ Mocht dat om wat voor reden dan ook niet praktisch of bruikbaar zijn dan staan d
 Voor sommige opdrachten heb je een pagina of bestand nodig.
 Hier vind je alle bestanden en pagina's voor dit hoofdstuk.
 
-* [<i class="fab fa-html5"></i> Opdracht 4: Delen of stelen, vraag 5](leerlingen/h1/delen_of_stelen/){:target="_blank"}
-* <i class="fab fa-html5"></i> [Opdracht 5: Weldoener](leerlingen/h1/weldoener/){:target="_blank"}([.nlogo](leerlingen/h1/weldoener/files/Weldoener.nlogo){:target="_blank"})
-* <i class="far fa-file-pdf"></i> [Opdracht 8: Iteraties](leerlingen/h1/opdracht_8_iteraties.pdf){:target="_blank"}
-* <i class="fab fa-html5"></i> [Opdracht 11: Mensenstroom, vraag 43](leerlingen/h1/mensenstroom/){:target="_blank"}([.nlogo](leerlingen/h1/mensenstroom/files/lokaal.nlogo){:target="_blank"})
-* <i class="far fa-file-pdf"></i> [Opdracht 13: Kiezen II](leerlingen/h1/opdracht_13_kiezen_2.pdf){:target="_blank"}
-* <i class="fas fa-table"></i> [Opdracht 14: Cellulaire Automaten](leerlingen/h1/opdracht_14_cellulaire_automaten.xlsx){:target="_blank"}
-* <i class="fab fa-html5"></i> [Opdracht 15: Game of life, vraag 64](leerlingen/h1/game_of_life/){:target="_blank"}
-* <i class="fab fa-html5"></i> [Opdracht 19: Mexican wave II](leerlingen/h1/mexican_wave_2/){:target="_blank"}
-* <i class="fab fa-html5"></i> [Opdracht 20: Mexican wave III](leerlingen/h1/mexican_wave_3/){:target="_blank"}
+* [<i class="fab fa-html5"></i> Opdracht 4: Delen of stelen, vraag 5](site/O4v5_Delen_of_Stelen/){:target="_blank"}
+* <i class="fab fa-link"></i> [Opdracht 5: Weldoener](site/O5_Weldoener/){:target="_blank"}([.nlogo](site/O5_Weldoener/files/Weldoener.nlogo){:target="_blank"})
+* <i class="far fa-file-pdf"></i> [Opdracht 8: Iteraties](leerlingen/h1/Opdracht_8_Iteraties.pdf){:target="_blank"}
+* <i class="fab fa-link"></i> [Opdracht 11: Mensenstroom, vraag 43](site/O11_Mensenstroom/){:target="_blank"}([.nlogo](site/O11_Mensenstroom/files/lokaal.nlogo){:target="_blank"})
+* <i class="far fa-file-pdf"></i> [Opdracht 13: Kiezen II](leerlingen/h1/Opdracht_13_Kiezen_II.pdf){:target="_blank"}
+* <i class="fas fa-table"></i> [Opdracht 14: Cellulaire Automaten](leerlingen/h1/Opdracht_14_Cellulaire_automaten.xlsx){:target="_blank"}
+* <i class="fab fa-link"></i> [Opdracht 15: Game of life, vraag 64](site/O15_Game_of_Life/){:target="_blank"}
+* <i class="fab fa-link"></i> [Opdracht 19: Mexican wave II](site/O19_Mexican_Wave_II/){:target="_blank"}
+* <i class="fab fa-link"></i> [Opdracht 20: Mexican wave III](site/O20_Mexican_Wave_III/){:target="_blank"}
 
 
 ## Videos
