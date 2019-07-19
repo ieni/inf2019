@@ -16,10 +16,10 @@ Mocht dat om wat voor reden dan ook niet praktisch of bruikbaar zijn dan staan d
 Voor sommige opdrachten heb je een pagina of bestand nodig.
 Hier vind je alle bestanden en pagina's voor dit hoofdstuk.
 
-* [<i class="fa fa-link"></i> Opdracht 4: Delen of stelen, vraag 5](site/O4v5_Delen_of_Stelen/){:target="_blank"}
-* <i class="fa fa-link"></i> [Opdracht 5: Weldoener](site/O5_Weldoener/){:target="_blank"}([.nlogo](site/O5_Weldoener/files/Weldoener.nlogo){:target="_blank"})
+* <i class="fa fa-link"></i> [Opdracht 4: Delen of stelen, vraag 5](site/O4v5_Delen_of_Stelen/){:target="_blank"}
+* <i class="fa fa-link"></i> [Opdracht 5: Weldoener](site/O5_Weldoener/){:target="_blank"} ([.nlogo](site/O5_Weldoener/files/Weldoener.nlogo){:target="_blank"})
 * <i class="far fa-file-pdf"></i> [Opdracht 8: Iteraties](leerlingen/h1/Opdracht_8_Iteraties.pdf){:target="_blank"}
-* <i class="fa fa-link"></i> [Opdracht 11: Mensenstroom, vraag 43](site/O11_Mensenstroom/){:target="_blank"}([.nlogo](site/O11_Mensenstroom/files/lokaal.nlogo){:target="_blank"})
+* <i class="fa fa-link"></i> [Opdracht 11: Mensenstroom, vraag 43](site/O11_Mensenstroom/){:target="_blank"} ([.nlogo](site/O11_Mensenstroom/files/lokaal.nlogo){:target="_blank"})
 * <i class="far fa-file-pdf"></i> [Opdracht 13: Kiezen II](leerlingen/h1/Opdracht_13_Kiezen_II.pdf){:target="_blank"}
 * <i class="fas fa-table"></i> [Opdracht 14: Cellulaire Automaten](leerlingen/h1/Opdracht_14_Cellulaire_automaten.xlsx){:target="_blank"}
 * <i class="fa fa-link"></i> [Opdracht 15: Game of life, vraag 64](site/O15_Game_of_Life/){:target="_blank"}
