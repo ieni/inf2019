@@ -3,7 +3,6 @@ import os
 output_file = "files.md"
 relative_path = "leerlingen/h3/"
 
-
 def folder_2_md(path, output, icon=None, prefix="", prefix_replace=""):
     clean_names = []
     for file_name in os.listdir(path):
@@ -25,5 +24,5 @@ def folder_2_md(path, output, icon=None, prefix="", prefix_replace=""):
 with open("files.md", 'w+') as output:
     folder_2_md("NetLogo_opdrachten/", output, icon="<i class=\"fa fa-file\" aria-hidden=\"true\"></i>", prefix="H3opg", prefix_replace="Opgave ")
     output.write("\n")
-    folder_2_md("video/", output, icon="<i class=\"fas fa-video\"></i>", prefix="H3opg", prefix_replace="Opgave ")
- 
+    folder_2_md("video/", output, icon="<i class=\"fas fa-video\"></i>", prefix="H2opg", prefix_replace="Opgave ")
+

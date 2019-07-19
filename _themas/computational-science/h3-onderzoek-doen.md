@@ -15,7 +15,7 @@ Hier vind je alle bestanden en pagina's voor dit hoofdstuk.
 
 ## NetLogo Opdrachten
 
-Dit .zip-archief bevat alle bestanden die je nodig hebt bij hoofdstuk 3.
+Dit .zip-archief bevat alle NetLogo bestanden die je nodig hebt bij hoofdstuk 3.
 
 * <i class="fa fa-file-archive" aria-hidden="true"></i> [NetLogo_opdrachten](leerlingen/h3/NetLogo_opdrachten_h3.zip)
 
