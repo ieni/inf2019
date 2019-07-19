@@ -8,7 +8,7 @@ thema: "computational science"
 
 Dit .zip-archief bevat alle bestanden die je nodig hebt bij hoofdstuk 2.
 
-* <i class="fa fa-file-archive-o" aria-hidden="true"></i> [NetLogo_opdrachten](leerlingen/h2/NetLogo_opdrachten.zip)
+* <i class="fa fa-file-archive" aria-hidden="true"></i> [NetLogo_opdrachten](leerlingen/h2/NetLogo_opdrachten.zip)
 
 ### Losse .nlogo bestanden
 
