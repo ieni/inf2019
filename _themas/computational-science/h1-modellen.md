@@ -1,7 +1,7 @@
 ---
 title: "H1: Modellen"
 layout: subthema
-thema: "computational-science"
+thema: "computational science"
 ---
 
 ## Hulpmiddelen
