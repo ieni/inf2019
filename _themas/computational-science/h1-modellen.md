@@ -4,8 +4,6 @@ layout: subthema
 thema: "computational science"
 ---
 
-## Hulpmiddelen
-
 Bij enkele opdrachten zijn er extra bestanden/hulpmiddelen nodig, deze staan onder [bestanden en webtools](#bestanden-en-webtools).
 In de PDF wordt af-en-toe ook verwezen naar video's, klikken op het video-icoon zou de betreffende video in een browser moeten laden.
 Mocht dat om wat voor reden dan ook niet praktisch of bruikbaar zijn dan staan die links ook allemaal hieronder bij [videos](#videos).
