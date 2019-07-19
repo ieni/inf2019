@@ -1,7 +1,7 @@
 ---
-title: "Algoritmiek"
+title: "G. Algoritmiek, berekenbaarheid en logica"
 layout: thema
-thema: algortimiek
+thema: algoritmiek
 ---
 
 **Christian Köppe, Jacqueline Nijenhuis-Voogt, Jacco Gnodde, Renske Smetsers-Weeda**
