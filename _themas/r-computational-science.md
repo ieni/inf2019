@@ -21,11 +21,18 @@ Bij sommige opdrachten zijn extra bestanden/hulpmiddelen nodig, deze zijn per ho
 Er wordt vanuit de PDF ook verwezen naar materiaal op het web.
 Deze links staan ook op de hoofdstukpagina's, mocht het niet mogelijk zijn de link in de PDF te gebruiken.
 
-* PDF [Lesmateriaal](computational-science/domein_r_abm_lesmateriaal.pdf)
+* <i class="far fa-file-pdf"></i> [Lesmateriaal](computational-science/domein_r_abm_lesmateriaal.pdf)
+* <i class="fa fa-file-archive" aria-hidden="true"></i> [Hulpbestanden](leerlingen/leerlingen.zip)
 
 - [Hoofdstuk 1 - Modellen](computational-science/h1-modellen)
 - [Hoofdstuk 2 - NetLogo](computational-science/h2-netlogo)
 - [Hoofdstuk 3 - Onderzoek doen](computational-science/h3-onderzoek-doen)
+
+## Docentmateriaal
+
+Materiaal voor de docent, zoals powerpoints en extra opdrachten zijn te vinden onder:
+
+- [Docentmateriaal](computational-science/docentmateriaal)
 
 ## Team
 
