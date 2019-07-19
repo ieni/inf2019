@@ -13,8 +13,8 @@ Onderstaande PDF geeft docenten inzicht in de filosofie achter het lesmateriaal.
 Verder zijn daar adviezen te vinden over hoe het materiaal ingezet kan worden.
 De Powerpoint presentatie kan als basis voor de lessen gebruikt worden.
 
-* <i class="fa fa-file-pdf"></i> [Module ABM handleiding docenten](docenten/Module_ABM_handleiding_docenten.pdf){:target="_blank"}
-* <i class="fa fa-file-powerpoint"></i> [Module ABM Powerpoint](docenten/Module_ABM_Powerpoint.pptx){:target="_blank"}
+* <i class="fa fa-file-pdf"></i> [Module ABM handleiding docenten](docent/Module_ABM_handleiding_docenten.pdf){:target="_blank"}
+* <i class="fa fa-file-powerpoint"></i> [Module ABM Powerpoint](docent/Module_ABM_Powerpoint.pptx){:target="_blank"}
 
 ## Extra bestanden
 
@@ -26,7 +26,7 @@ Hieronder staan enkel de extra bestanden voor docenten uitgesplitst per hoofdstu
 Omdat leerlingen deze pagina kunnen benaderen hebben we ervoor gekozen de toetsen hier niet te plaatsen.
 De toetsen zijn te vinden op: ****
 
-* <i class="fa fa-file-archive" aria-hidden="true"></i> [Module ABM Compleet](docenten/compleet.zip)
+* <i class="fa fa-file-archive" aria-hidden="true"></i> [Module ABM Compleet](docent/compleet.zip)
 
 ### Hoofstuk 1: Modellen
 
