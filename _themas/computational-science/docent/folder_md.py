@@ -27,10 +27,10 @@ def folder_2_md(path, output, icon=None, prefix="", prefix_replace=""):
 with open("files.md", 'w+') as output:
     folder_2_md("h1/", output, icon="<i class=\"fa fa-file\" aria-hidden=\"true\"></i>")
 
-    folder_2_md("h2/NetLogo_uitwerkingen", output, icon="<i class=\"fa fa-file\" aria-hidden=\"true\"></i>")
-    folder_2_md("h2/NetLogo_extra", output, icon="<i class=\"fa fa-file\" aria-hidden=\"true\"></i>")
+    folder_2_md("h2/NetLogo_uitwerkingen/", output, icon="<i class=\"fa fa-file\" aria-hidden=\"true\"></i>")
+    folder_2_md("h2/NetLogo_extra/", output, icon="<i class=\"fa fa-file\" aria-hidden=\"true\"></i>")
 
     folder_2_md("h3/", output, icon="<i class=\"fa fa-file\" aria-hidden=\"true\"></i>")
-    folder_2_md("h3/NetLogo_uitwerkingen", output, icon="<i class=\"fa fa-file\" aria-hidden=\"true\"></i>", prefix="H3opg", prefix_replace="Opdracht ")
+    folder_2_md("h3/NetLogo_uitwerkingen/", output, icon="<i class=\"fa fa-file\" aria-hidden=\"true\"></i>", prefix="H3opg", prefix_replace="Opdracht ")
 
     folder_2_md("po/", output, icon="<i class=\"fa fa-file\" aria-hidden=\"true\"></i>")
