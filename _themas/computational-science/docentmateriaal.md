@@ -24,7 +24,7 @@ Elk hoofdstuk heeft ook een pagina waar de individuele bestanden gevonden kunnen
 Hieronder staan enkel de extra bestanden voor docenten uitgesplitst per hoofdstuk.
 
 Omdat leerlingen deze pagina kunnen benaderen hebben we ervoor gekozen de toetsen hier niet te plaatsen.
-De toetsen zijn te vinden op: ****
+De toetsen zijn te vinden op: [het I&I forum](https://ieni-forum.infvo.nl/t/domein-r-computational-science/156).
 
 * <i class="fa fa-file-archive" aria-hidden="true"></i> [Module ABM Compleet](docent/Module_ABM_compleet.zip)
 
