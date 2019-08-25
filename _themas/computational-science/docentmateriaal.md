@@ -18,15 +18,12 @@ De Powerpoint presentatie kan als basis voor de lessen gebruikt worden.
 
 ## Extra bestanden
 
-Onderstaande .zip-archief bevat alle bestanden van het lesmateriaal.
 Leerlingen kunnen de complete set bestanden die voor hen bedoelt is op de hoofdpagina vinden.
 Elk hoofdstuk heeft ook een pagina waar de individuele bestanden gevonden kunnen worden.
 Hieronder staan enkel de extra bestanden voor docenten uitgesplitst per hoofdstuk.
 
 Omdat leerlingen deze pagina kunnen benaderen hebben we ervoor gekozen de toetsen hier niet te plaatsen.
 De toetsen zijn te vinden op: [het I&I forum](https://ieni-forum.infvo.nl/t/domein-r-computational-science/156).
-
-* <i class="fa fa-file-archive" aria-hidden="true"></i> [Module ABM Compleet](docent/Module_ABM_compleet.zip)
 
 ### Hoofstuk 1: Modellen
 
