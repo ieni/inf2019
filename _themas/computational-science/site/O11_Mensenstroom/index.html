@@ -1,0 +1,43 @@
+<html>
+	<head>
+		<title>O11 Mensenstroom</title>
+		<link rel="stylesheet" type="text/css" href="files/O11.css">
+	</head>
+
+	<body>
+		<div id="content">
+			<div id="instructie">
+				<h1>Opdracht 11: Mensenstroom</h1>
+
+				<p>
+					Hoe hangt de evacuatiesnelheid van een klaslokaal af van de indeling van het klaslokaal? 
+				</p>
+				<p>
+					Hiernaast is een model weergegeven waarmee je deze casus kunt simuleren. Het model bevat een aantal standaard-opstellingen die je kunt selecteren
+					door onder lokalen op <i>bus-1</i>, <i>bus-2</i>, etc. te klikken. De evacuatie start je daarna met <i>Vlucht</i>. Met <i>Plaats personen</i>
+					kun je de door jou gekozen lokaalindeling opnieuw met leerlingen vullen.
+				</p>
+				<p>
+					Om zelf een lokaalindeling te tekenen gebruik je de knoppen vanaf <i>Schone lei</i> (wat een leeg klaslokaal maakt). De tekenfunctie zet je aan (of uit) met
+					<i>Tekenen</i>. Om effici&euml;nt te kunnen werken kun je er daarbij voor kiezen om een rij of kolom in &eacute;&eacute;n handeling te tekenen.
+					Heb je een foutje gemaakt? In het dropdown-menu bij de objecten die je kunt tekenen zit ook een optie om te wissen :)
+				</p>
+				
+				<h1>Opdracht</h1>
+				<blockquote>
+					Bouw jullie eigen klasopstelling na en vergelijk de ontruimingstijd<br>met de opstellingen in het model.
+				</blockquote>
+				</div>
+
+			<div id="model">
+				<iframe height="100%" width="100%" src="files/lokaal.html"></iframe>
+			</div>
+		</div>
+
+		<script>
+			var instructie = document.getElementById("instructie");
+			document.getElementById("verberg_instructie").addEventListener("click",function(){instructie.style.display = "none";});
+		</script>
+
+	</body>
+</html>

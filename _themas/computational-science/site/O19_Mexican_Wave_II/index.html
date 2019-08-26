@@ -1,0 +1,79 @@
+<html>
+	<head>
+		<title>O19 Mexican Wave</title>
+		<link rel="stylesheet" type="text/css" href="files/O19.css">
+	</head>
+
+	<body>
+			<div id="model">
+				<iframe height="100%" width="100%" src="files/content.html"></iframe>
+			</div>	
+	
+	
+	<div id="content">	
+			<div id="instructie">
+				<h1>Opdracht 19: Mexican Wave</h1>
+				<p>
+					Hierboven is een model weergegeven waarmee je de casus <b>Mexican Wave</b> kunt simuleren.
+					Klik op <i>setup</i> om een beginsituatie te cre&euml;ren en op <i>go</i> om de simulatie te starten.<br>
+					Om onderstaande vragen te beantwoorden kan het verstandig zijn om <i>ONCE</i> te gebruiken.
+					Met deze knop wordt steeds &eacute;&eacute;n iteratie van het model uitgevoerd, zodat je beter kunt zien wat er gebeurt.
+				</p>
+				<p>
+					Het model toont 50 toeschouwers op een rij. Bij de start van het model maakt de linker toeschouwer een start met een wave-beweging.
+					Hij stimuleert hiermee andere toeschouwers om ook een wave-beweging te gaan maken. Hierdoor ontstaat een wave die uiteindelijk de meest rechtste
+					toeschouwer bereikt. Op het moment dat dit zo is, verandert de bovenste balk van oranje naar groen ten teken dat er een meting wordt gestart.
+				</p>
+				<p>
+					De modelwereld is een continue wereld. Dat wil zeggen dat je de rij met toeschouwers in gedachten links en rechts met elkaar kunt verbinden zodat ze een ring vormen, net als in een stadion.
+					Dit verklaart dat de wave links weer verder gaat, als hij de rechterkant heeft bereikt.
+				</p>
+				<p>
+					De meting loopt door tot het begin van de wave opnieuw de meest rechter toeschouwer bereikt. Op dat moment stopt de meting (oranje balk) en wordt de snelheid berekend.
+				</p>
+				
+				<h1>Opdrachten</h1>
+				<ol type="a">
+					<li>Voer het model (met <b>aantal = 1</b>; dit staat al ingesteld) uit door op <i>setup</i> en vervolgens op <i>go</i> te klikken.</li>
+					<li>Herhaal de stappen van de vorige opdracht enkele keren. Zit er variatie in de berekende snelheid? Komt de snelheid overeen met wat je zou verwachten
+					of met wat je in opdracht 17 vanuit de video hebt bepaald?</li>
+					<li>Valt de vorige opdracht onder verificatie of onder validatie?</li>
+					<li>Bij een snelheid van 1 stoeltje per tik hoort een snelheid van 4,5 meter per seconde. Bedenk hoe de programmeur de snelheid in meter per seconde berekend.</li>					
+				</ol>
+			</div>	
+			<div id="instructie">
+				<h1>Opdracht 19: Mexican Wave (vervolg)</h1>
+				<p>
+					Het model is in te stellen met een parameter <b>aantal</b>. Deze parameter geeft aan hoeveel invloed een agent zou kunnen hebben op zijn (rechter) buren.
+					Als de parameter is ingesteld op de waarde 4, krijgen de agents bij de setup als individuele eigenschap een waarde 1, 2, 3 of 4 die random wordt gekozen. 
+					Dit betekent dat een agent de buren die 1, 2 of 3 stoelen verderop zitten, stimuleert om ook aan de wave-beweging te beginnen. Die persoonlijke eigenschap kun je aflezen
+					door het label (oranje letters) bij elke toeschouwer.
+				</p>
+				<p>
+					Als naast een agent <font style="color: orange">3</font> staat, betekent dit dat de agent als hij zelf aan de wave begint, daarmee zijn rechter buren die 1, 2 en 3 stoelen
+					verderop zitten stimuleert om zelf ook te starten met de wave. Op die manier wordt de wave doorgegeven,
+					maar wel afhankelijk van de door de computer random ingestelde waarde (met als maximum de door jou ingestelde parameter <b>aantal</b>.)
+				</p>
+				
+				<h1>Opdrachten (vervolg)</h1>
+				<ol type="a" start="5">
+					<li>Stel de parameter <b>aantal</b> in op 3 en klik meerdere keren op <i>setup</i>. Stel vast dat de agents een willekeurig oranje label meekrijgen.</li>
+					<li>Voer het model minimaal 5 keer uit. Klik tussentijds steeds eerst op <i>setup</i> om een nieuwe random beginsituatie te cre&euml;ren.
+					Noteer steeds de gemeten snelheden. Is er variatie in snelheid?</li>
+					<li>Verwacht je een hogere of lagere snelheid als je <b>aantal</b> naar 4 verhoogt? Controleer je voorspelling.</li>
+					<li>Voor welke instelling komt de modelsnelheid het best overeen met de door jou gevonden snelheid uit de wave-video (opdracht 17)?</li>
+					<li>Varieer de parameter <b>aantal</b> en voer steeds het model uit. Hoe breed is de wave? Ofwel: hoeveel agents zijn er naast elkaar in beweging bij een bepaalde instelling?</li>
+					<li>Wat vind jij een realistische breedte voor een wave? Bekijk desnoods een video.</li>
+					<li>Valt de vorige opdracht onder verificatie of onder validatie?</li>
+					<li>Bij de vorige opdracht heb je of voor verificatie of voor validatie gekozen. Noem een voorbeeld van de variant die je niet hebt gekozen.</li>
+				</ol>
+			</div>
+		</div>
+
+		<script>
+			var instructie = document.getElementById("instructie");
+			document.getElementById("verberg_instructie").addEventListener("click",function(){instructie.style.display = "none";});
+		</script>
+
+	</body>
+</html>
