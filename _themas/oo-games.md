@@ -37,9 +37,15 @@ Tijdens de SLO-bijeenkomst _Tomorrow starts here_ (3 juni 2019) is een tussenver
 
 * <i class="far fa-file-pdf"></i> [Lesmateriaal Hoofdstuk 1 & 2](oo-games/Module OO Games CISCO H1 en H2.pdf)
 * <i class="far fa-file-archive"></i> [Download HTML/JS werkomgeving](oo-games/OO_omgeving.zip)
-* <i class="far fa-link"></i> [Live versie van de HTML/JS werkomgeving](oo-games/OO_omgeving/){:target="_blank"}
+* <i class="fa fa-link"></i> [Live versie van de HTML/JS werkomgeving](oo-games/OO_omgeving/){:target="_blank"}
 
-Houd deze site in de gaten voor de update naar de definitieve versie.
+Houd deze site in de gaten voor de nieuws over de definitieve versie.
+
+*Update*
+
+We nemen wat meer tijd voor het ontwikkelen van het materiaal dan eerder aangekondigd. 
+Als u het materiaal al download (of al had gedownload) dient u het bestand SLOBF.js in de map JS te vervangen door deze nieuwe versie:
+* <i class="fa fa-file"></i> [vervangende SLOBF.js](oo-games/OO_omgeving/JS/SLOBF.js)
 
 ## Team
 
