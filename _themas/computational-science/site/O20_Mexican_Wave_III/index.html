@@ -1,0 +1,48 @@
+<html>
+	<head>
+		<title>O20 Mexican Wave III</title>
+		<link rel="stylesheet" type="text/css" href="files/O20.css">
+	</head>
+
+	<body>
+		<div id="content">
+			<div id="instructie">
+				<h1>Opdracht 20: Mexican Wave III</h1>
+				<p>
+					Hiernaast is een model weergegeven waarmee je de casus <b>Mexican Wave</b> op drie manieren kunt simuleren.
+					Klik op <i>setup</i> om een beginsituatie te cre&euml;ren en op <i>go</i> om de simulatie te starten.<br>
+					Om onderstaande vragen te beantwoorden kan het verstandig zijn om <i>Go once</i> te gebruiken.
+					Met deze knop wordt steeds &eacute;&eacute;n iteratie van het model uitgevoerd, zodat je beter kunt zien wat er gebeurt.
+				</p>
+			
+				<h1>Opdrachten</h1>
+				<ol type="a">
+					<li>Voer het model (in <b>variant 1</b>; deze staat al ingesteld) uit door op <i>setup</i> en vervolgens op <i>go</i> te klikken.</li>
+					<li>Het model is in te stellen met een parameter <b>afstand</b>. Verander de waarde van deze parameter een aantal keren.
+					Klik daarna steeds eerst op <i>setup</i> en vervolgens enkele keren op <i>Go once</i>. Wat is de betekenis van <b>afstand</b>, denk je?</li>
+					<li>De agents zijn soms rood van kleur. Wat is de betekenis daarvan? Onder welke voorwaarde worden de agents rood?</li>
+					<li>Beschrijf hoe je met dit model aan micro-validatie zou kunnen doen.</li>
+					<li>De huidige <b>variant 1</b> van het model voldoet niet, omdat de wave nu niet gelijkmatig door het stadion loopt. De rijen lopen uit de pas.<br>
+					Wanneer valt deze vaststelling onder verificatie? En wanneer onder (macro-) validatie?</li>
+					<li>Stel <b>variant 2</b> van het model in met <b>afstand</b> 3. Klik daarna op <i>setup</i> en <i>go</i> om de uitvoer te bekijken.</li>
+					<li>Voor welke waarde van <b>afstand</b> vind jij <b>variant 2</b> het meest realistisch?</li>
+					<li>Noem op basis van validatie minimaal twee verbeterpunten voor dit model.</li>
+					<li>Stel <b>variant 3</b> van het model in met <b>afstand</b> 5. Klik daarna op <i>setup</i> en <i>go</i> om de uitvoer te bekijken.</li>
+					<li>Stop het model en klik vervolgens een aantal keren (alleen) op <i>setup</i>. Let op het getal (label) bij de agents. Wat is de betekenis van dit getal?<br>
+						Selecteer desnoods tijdelijk <b>variant 1</b> of <b>variant 2</b> om de betekenis te achterhalen.</li>
+					<li>Vind je <b>variant 3</b> beter dan <b>variant 2</b>? Motiveer je standpunt.</li>
+				</ol>
+			</div>
+
+			<div id="model">
+				<iframe height="100%" width="100%" src="files/content.html"></iframe>
+			</div>
+		</div>
+
+		<script>
+			var instructie = document.getElementById("instructie");
+			document.getElementById("verberg_instructie").addEventListener("click",function(){instructie.style.display = "none";});
+		</script>
+
+	</body>
+</html>

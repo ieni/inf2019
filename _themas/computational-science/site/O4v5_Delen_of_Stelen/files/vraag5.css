@@ -1,0 +1,61 @@
+html, body {
+	width: 100%;
+}
+
+#game-area {
+	width: 60%;
+	margin: auto;
+}
+
+#situation, .controls {
+	width: 100%;
+	text-align: center;
+}
+
+#situation {
+}
+
+#situation p {
+	margin: 0;
+	padding: 120px 0;
+	background-color: lightyellow;
+	
+}
+
+.controls {
+	background-color: lightcyan;
+	font-size: 3em;
+}
+
+.button {
+	background-color: purple;
+	color: white;
+	padding: 16px 32px;
+	font-size: 32px;
+	margin: 4px 2px;
+	-webkit-transition-duration: 0.4s; /* Safari */
+	transition-duration: 0.4s;
+	cursor: pointer;
+}
+
+.delen {
+	background-color: white;
+	color: black;
+	border: 2px solid green;
+}
+
+.delen:hover {
+	background-color: green;
+	color: white;
+}
+
+.stelen {
+	background-color: white;
+	color: black;
+	border: 2px solid red;
+}
+
+.stelen:hover {
+	background-color: red;
+	color: white;
+}
