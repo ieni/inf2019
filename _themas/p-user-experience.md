@@ -33,7 +33,4 @@ De opzet van het materiaal is te vinden in de [leeswijzer]({{ site.baseurl }}/th
 
 ## Status materiaal
 
-Alle materialen, met uitzondering van de emotieherkenning opdracht, zijn op meerdere scholen getest en aan de hand daarvan bijgesteld.
-De externe tests op scholen die bij de ontwikkeling betrokken zijn vinden plaats in semester 2 van het schooljaar 2018-2019.
-Aan de hand daarvan vinden de laatste **redactionele bijstellingen** plaats.
-(Met andere woorden, het materiaal is grotendeels getest en direct bruikbaar, maar wordt nog aangepast.)
+Alle materialen, met uitzondering van de projectcasus gezichtsuitdrukkingen, zijn eerst op meerdere scholen intern getest en in schooljaar 2018-2019 op een school die niet bij de ontwikkeling was betrokken. De materialen zijn aan de hand van de tests bijgesteld.
