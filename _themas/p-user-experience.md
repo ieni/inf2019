@@ -11,7 +11,8 @@ Dit materiaal is bedoeld als invulling van Domein P: keuzethema User Experience.
 
 Deze module is in opdracht van SLO ontwikkeld door:
 
-(teamleden)
+Floris-Jan Overink, Matthijs Koridon, Ingrid Breymann, Nick Degens,
+Jan-Willem van ’t Klooster, Dirk-Jan van de Poppe, Gerrit Jan de Wilde
 
 ## Contact
 
@@ -20,7 +21,7 @@ Wij gebruiken deze feedback om de module aan te vullen en te verbeteren.
 Ook voor vragen kunt u ons bereiken op onderstaande e-mailadres.
 Daar kunt u ook de uitwerkingen van de opdrachten opvragen.
 
-(mailadres)
+l.e.i.breymann@utwente.nl, j.vantklooster@utwente.nl
 
 ## Opzet van het materiaal
 
