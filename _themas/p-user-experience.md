@@ -18,7 +18,7 @@ Jan-Willem van ’t Klooster, Dirk-Jan van de Poppe, Gerrit Jan de Wilde
 
 Wij waarderen alle mogelijk feedback van docenten en leerlingen.
 Wij gebruiken deze feedback om de module aan te vullen en te verbeteren.
-Ook voor vragen kunt u ons bereiken op onderstaande e-mailadres.
+Ook voor vragen kunt u ons bereiken op onderstaande e-mailadressen.
 Daar kunt u ook de uitwerkingen van de opdrachten opvragen.
 
 l.e.i.breymann@utwente.nl, j.vantklooster@utwente.nl
