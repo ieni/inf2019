@@ -11,16 +11,17 @@ Dit materiaal is bedoeld als invulling van Domein P: keuzethema User Experience.
 
 Deze module is in opdracht van SLO ontwikkeld door:
 
-(teamleden)
+Floris-Jan Overink, Matthijs Koridon, Ingrid Breymann, Nick Degens,
+Jan-Willem van ’t Klooster, Dirk-Jan van de Poppe, Gerrit Jan de Wilde
 
 ## Contact
 
 Wij waarderen alle mogelijk feedback van docenten en leerlingen.
 Wij gebruiken deze feedback om de module aan te vullen en te verbeteren.
-Ook voor vragen kunt u ons bereiken op onderstaande e-mailadres.
+Ook voor vragen kunt u ons bereiken op onderstaande e-mailadressen.
 Daar kunt u ook de uitwerkingen van de opdrachten opvragen.
 
-(mailadres)
+l.e.i.breymann@utwente.nl, j.vantklooster@utwente.nl
 
 ## Opzet van het materiaal
 
@@ -32,7 +33,4 @@ De opzet van het materiaal is te vinden in de [leeswijzer]({{ site.baseurl }}/th
 
 ## Status materiaal
 
-Alle materialen, met uitzondering van de emotieherkenning opdracht, zijn op meerdere scholen getest en aan de hand daarvan bijgesteld.
-De externe tests op scholen die bij de ontwikkeling betrokken zijn vinden plaats in semester 2 van het schooljaar 2018-2019.
-Aan de hand daarvan vinden de laatste **redactionele bijstellingen** plaats.
-(Met andere woorden, het materiaal is grotendeels getest en direct bruikbaar, maar wordt nog aangepast.)
+Alle materialen, met uitzondering van de projectcasus gezichtsuitdrukkingen, zijn eerst op meerdere scholen intern getest en in schooljaar 2018-2019 op een school die niet bij de ontwikkeling was betrokken. De materialen zijn aan de hand van de tests bijgesteld.
