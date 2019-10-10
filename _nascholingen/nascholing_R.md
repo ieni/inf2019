@@ -6,8 +6,8 @@ thema: "nascholing"
 ---
 
 # Computational science (domein R)
-4 bijeenkomsten in 2019: 13 sep, 4 okt, 1 nov, 22 nov <br>
-De bijeenkomsten zijn op vrijdagmiddag, van 14.00 – 17.30 uur. <br>
+4 bijeenkomsten in 2020: Donderdag 12 mrt, 26 mrt, 9 apr, 14 mei <br>
+De bijeenkomsten zijn op donderdagmiddag, van 14.00 – 17.30 uur. <br>
 Kosten: 250 euro
 
 Bij Computational Science benadrukken we hoe informatica gebruikt kan worden binnen “andere wetenschappelijke disciplines”. Dit gebeurt door te onderzoeken, te modelleren en te simuleren. In deze cursus bekijken we aan de hand van het lesmateriaal (zie ook https://ieni.github.io/inf2019/themas/computational-science.html) de toepassingen van modellen en simulaties. We leren de programmeertaal NetLogo om zelf modellen en simulaties te kunnen maken. Tot slot bekijken we een onderzoek met behulp van een NetLogo model van begin tot einde.
