@@ -22,7 +22,7 @@ Hieronder vindt u meer informatie over de afzonderlijke cursussen. Inschrijven k
 Docenten informatica bovenbouw havo/vwo.
 
 ## Data en tijden
-De cursussen zijn het najaar 2019 op donderdagmiddag, van 14.00 – 17.30 uur.
+De cursussen zijn het voorjaar 2020 op donderdagmiddag, van 14.00 – 17.30 uur.
 
 | cursus | data | deadline voor inschrijving
 | :---   | :---  | :---
