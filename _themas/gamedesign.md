@@ -7,7 +7,7 @@ thema: "game design"
 **Paul Bergervoet (UU) & Lars Tijsma (HAN)**
 
 * [Presentatie keuzemodule Game Design]({{site.baseurl}}/themas/gamedesign/bergervoet-game-design.pdf){:target="_blank"}
-* [Workshop level design]({{site.baseurl}}/themas/gamedesign/bergervoet-workshopleveldesign.pdf){:target="_blank"}
+* [Workshop level design]({{site.baseurl}}/themas/gamedesign/Bergervoet-WorkshopLevelDesign.pdf){:target="_blank"}
 
 
 Het team voor de module Game Design is in het voorjaar gestart met een ambitieuze doelstelling.
