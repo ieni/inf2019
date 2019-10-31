@@ -31,8 +31,7 @@ SLO stelt dit materiaal beschikbaar onder de Creative Commons BY licentie (CC-BY
 
 Het materiaal wordt met zorg samengesteld en getest. SLO en auteurs aanvaarden geen enkele aansprakelijkheid voor onjuistheden en/of onvolledigheden in dit materiaal.
 
-Het materiaal voor de eerste keuzethema's wordt het lopende schooljaar (2018-2019) getest.
-Dit testen gebeurt eerst binnen de ontwikkelteams, daarna door docenten die hiermee in een vroeg stadium aan de slag willen.
+Om de kwaliteit van het materiaal te waarborgen wordt een standaard ontwikkelprocedure gehanteerd. Onderdelen daarvan zijn onder meer het testen van de materialen en het laten beoordelen door experts.
 
 *Feedback*, vragen en opmerkingen over het materiaal is -naast het directe kanaal van de ontwikkelaars- te plaatsen op het [i&i forum, onder "lesmateriaal"](https://ieni-forum.infvo.nl/c/lesmateriaal){:target="_blank"}.
 Voor de verschillende thema's zijn daar aparte sub-categorieën.
