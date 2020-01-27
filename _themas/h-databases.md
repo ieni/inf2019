@@ -41,5 +41,5 @@ Bovendien geeft dit de mogelijkheid om  leerlingen met verschillende achtergrond
 De onderdelen SQL en database-design zijn klaar en getest.
 
 Het NoSQL-Linked Data materiaal is in de testfase.
-Contactpersoon: Eelco Dijkstra.
 Docenten die als tester met hun leerlingen met het materiaal aan de slag willen zijn welkom!
+Contactpersoon: Eelco Dijkstra.
