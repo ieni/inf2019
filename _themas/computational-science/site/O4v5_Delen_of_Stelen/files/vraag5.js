@@ -35,7 +35,7 @@ function delen(){
 	document.getElementById("controls").style.display = 'none';
 	document.getElementById("resetdiv").style.display = 'block';
 	if (tegenstander.deelt()){
-		document.getElementById("situation-tekst").innerHTML = "Jullie hebben beide gedeelt, dat is heel sympathiek van jullie!";
+		document.getElementById("situation-tekst").innerHTML = "Jullie hebben beide gedeeld, dat is heel sympathiek van jullie!";
 		document.getElementById("situation-tekst").style.backgroundColor = "green";
 	} else {
 		document.getElementById("situation-tekst").innerHTML = "Je tegenstander heeft gestolen, helaas je had deze tegenstander niet moeten vertrouwen...";
@@ -51,7 +51,7 @@ function stelen(){
 		document.getElementById("situation-tekst").style.backgroundColor = "green";
 	} else {
 		document.getElementById("situation-tekst").style.backgroundColor = "red";
-		document.getElementById("situation-tekst").innerHTML = "Jullie hebben beide gestolen! Nu krijgen jullie allebij niks...";
+		document.getElementById("situation-tekst").innerHTML = "Jullie hebben beide gestolen! Nu krijgen jullie allebei niks...";
 	}
 }
 
