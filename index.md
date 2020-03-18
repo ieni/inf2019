@@ -12,7 +12,7 @@ Hieronder staan de materialen voor de 12 keuzethema's uit het examenprogramma in
 | G | Algoritmiek, berekenbaarheid en logica | [In ontwikkeling](themas/g-algoritmiek)
 | H | Databases | [Beschikbaar](themas/h-databases)
 | I | Cognitive Computing| Nog op te starten
-| J | Programmeerparadigma's (functioneel)| [In ontwikkeling](themas/j-programmeerparadigmas) 
+| J | Programmeerparadigma's (functioneel)| [Beschikbaar](themas/j-programmeerparadigmas) 
 | J | Programmeerparadigma's (objectgeoriënteerd) | [In ontwikkeling](themas/oo-games)
 | K | Computerarchitectuur | Nog op te starten
 | L | Netwerken | [Beschikbaar](themas/l-netwerken)
