@@ -1,7 +1,7 @@
 ---
 title: "OO Games maken en ervaren"
 layout: thema
-thema: "OO-games"
+thema: "oo-games"
 ---
 
 # Domein J: Keuzethema Programmeerparadigma's
