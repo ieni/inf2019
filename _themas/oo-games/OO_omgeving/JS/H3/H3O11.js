@@ -137,8 +137,8 @@ class Tennis {
 function setup() {
   // initialisatie
   
-  var myCanvas = createCanvas(700,400);
-  myCanvas.parent('processing');
+  canvas = createCanvas(700,400);
+  canvas.parent('processing');
   racket = new Racket();
   bal = new Tennisbal();
   spel = new Tennis(racket,bal);

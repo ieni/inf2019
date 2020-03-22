@@ -10,11 +10,11 @@ class Raster {
     this.aantalKolommen = k;
     this.celGrootte = null;
   }
-  
+
   berekenCelGrootte() {
     this.celGrootte = canvas.width / this.aantalKolommen;
   }
-  
+
   teken() {
     push();
     noFill();
@@ -40,7 +40,7 @@ class Bom {
     this.l = l;
     this.sprite = bomPlaatje;
   }
-  
+
   toon() {
     image(this.sprite,this.x,this.y,this.l,this.l);
   }
@@ -65,7 +65,7 @@ class Vijand {
     this.x = constrain(this.x,0,canvas.width - this.stapGrootte);
     this.y = constrain(this.y,0,canvas.height - this.stapGrootte);
   }
-  
+
   toon() {
     image(this.sprite,this.x,this.y,this.stapGrootte,this.stapGrootte);
   }
@@ -85,7 +85,7 @@ class Jos {
     this.stapGrootte = s;
     this.staOpBom = false;
   }
-  
+
   beweeg() {
     if (keyCode == RIGHT_ARROW) {
       this.x += this.stapGrootte;
@@ -102,7 +102,7 @@ class Jos {
     this.x = constrain(this.x,0,canvas.width);
     this.y = constrain(this.y,0,canvas.height - this.stapGrootte);
   }
-  
+
   wordtGeraakt(vijand) {
     if (this.x == vijand.x && this.y == vijand.y) {
       return true;
@@ -111,7 +111,7 @@ class Jos {
       return false;
     }
   }
-  
+
   staatOp(bommenLijst) {
     for (var b = 0;b < bommenLijst.length;b++) {
       if (bommenLijst[b].x == this.x && bommenLijst[b].y == this.y) {
@@ -119,8 +119,8 @@ class Jos {
       }
     }
     return this.staOpBom;
-  }  
-  
+  }
+
   toon() {
     image(this.animatie[this.frameNummer],this.x,this.y,this.stapGrootte,this.stapGrootte);
   }
@@ -145,7 +145,7 @@ class Overloper {
     this.afgelopen = null;
     this.gewonnen = null;
   }
-  
+
   nieuw() {
     this.bommen = [];
     this.maakBommen();
@@ -155,19 +155,19 @@ class Overloper {
     this.gewonnen = false;
     this.afgelopen = false;
   }
-  
+
   maakBommen() {
     for (var b = 0;b < this.Nbommen;b++) {
        this.bommen.push(new Bom(floor(random(1,this.raster.aantalKolommen)) * this.raster.celGrootte,floor(random(0,this.raster.aantalRijen)) * this.raster.celGrootte,this.raster.celGrootte))
     }
   }
-  
+
   maakVijanden() {
     for (var v = 0; v < this.Nvijanden;v++) {
       this.vijanden.push(new Vijand(floor(random(3,this.raster.aantalKolommen))*this.raster.celGrootte,floor(random(3,this.raster.aantalRijen))*this.raster.celGrootte,this.aantalCellen * this.raster.celGrootte));
     }
   }
-  
+
   update() {
     for (var v = 0; v < this.Nvijanden;v++) {
       if (this.speler.wordtGeraakt(this.vijanden[v])) {
@@ -184,7 +184,7 @@ class Overloper {
       this.gewonnen = true;
     }
   }
-  
+
   beginScherm() {
     push();
     noFill();
@@ -198,7 +198,7 @@ class Overloper {
     text("\nGebruik de pijltjestoetsen om te bewegen\nen ontwijk bommen en vijanden.\nLET OP: je kunt niet (terug) naar links.\n\nDruk op een toets om te beginnen.\n",0,0,canvas.width,canvas.height * 2 / 3);
     pop();
   }
-  
+
   eindScherm() {
     var tekst = 'Helaas. Je bent af.';
     if (this.gewonnen) {
@@ -210,8 +210,8 @@ class Overloper {
     strokeWeight(3);
     text(tekst+'\n\nDruk ENTER voor nieuw spel.',0,0,canvas.width,canvas.height);
     pop();
-  }    
-  
+  }
+
   teken() {
     background(achtergrond);
     if (!this.actief) {
@@ -223,14 +223,14 @@ class Overloper {
       }
       else {
         //this.raster.teken();
-        
+
         for (var b = 0;b < this.Nbommen;b++) {
           this.bommen[b].toon();
         }
         for (var v = 0; v< this.Nvijanden;v++) {
           this.vijanden[v].toon();
         }
-        this.speler.toon();        
+        this.speler.toon();
       }
     }
   }
@@ -250,16 +250,16 @@ function preload() {
   for (var b = 0;b < 6;b++) {
     frameSpeler = loadImage("images/sprites/Eve100px/Eve_"+b+".png");
     spelerFrames.push(frameSpeler);
-  }  
+  }
 }
 
 function setup() {
-  var myCanvas = createCanvas(900,600);
-  myCanvas.parent('processing');
+  canvas = createCanvas(900,600);
+  canvas.parent('processing');
   colorMode(RGB,255,255,255,1);
   textFont("Monospace");
   textSize(44);
-  textAlign(CENTER,CENTER);  
+  textAlign(CENTER,CENTER);
   frameRate(10);
   spel = new Overloper();
   spel.nieuw();
@@ -270,7 +270,7 @@ function draw() {
   if (frameCount % 5 == 0) {
     for (var v = 0; v < spel.Nvijanden;v++) {
       spel.vijanden[v].beweeg();
-    }    
+    }
   }
   spel.update();
   spel.teken();

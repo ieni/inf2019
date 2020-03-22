@@ -4,8 +4,8 @@ var hoogte;
 
 function setup() {
   hoogte = breedte / 2;
-  var myCanvas = createCanvas(aantalLagen*breedte + 1,aantalLagen*hoogte + 1);
-  myCanvas.parent('processing');
+  canvas = createCanvas(aantalLagen*breedte + 1,aantalLagen*hoogte + 1);
+  canvas.parent('processing');
   noLoop();
   background('silver');
   fill('lightslategray');

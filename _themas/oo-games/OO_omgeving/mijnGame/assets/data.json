@@ -1,0 +1,101 @@
+ {
+    "ringen":
+    [
+        {
+            "middelpunt":
+            {
+                 "x": 200,
+                 "y": 300
+            },
+            "diameter": 150
+        },
+        {
+            "middelpunt":
+            {
+                 "x": 300,
+                 "y": 400
+            },
+            "diameter": 250
+        },
+        {
+            "middelpunt":
+            {
+                 "x": 800,
+                 "y": 100
+            },
+            "diameter": 450
+        },
+        {
+            "middelpunt":
+            {
+                 "x": 200,
+                 "y": 0
+            },
+            "diameter": 300
+        },
+        {
+            "middelpunt":
+            {
+                 "x": 0,
+                 "y": 200
+            },
+            "diameter": 150
+        },                                
+        {
+            "middelpunt":
+            {
+                "x": 700,
+                "y": 100
+            },
+            "diameter": 50
+        },
+        {
+            "middelpunt":
+            {
+                 "x": 700,
+                 "y": 1000
+            },
+            "diameter": 600
+        },
+        {
+            "middelpunt":
+            {
+                 "x": 1400,
+                 "y": 900
+            },
+            "diameter": 250
+        },
+        {
+            "middelpunt":
+            {
+                 "x": 1100,
+                 "y": 800
+            },
+            "diameter": 450
+        },
+        {
+            "middelpunt":
+            {
+                 "x": 500,
+                 "y": 500
+            },
+            "diameter": 50
+        },
+        {
+            "middelpunt":
+            {
+                 "x": 600,
+                 "y": 900
+            },
+            "diameter": 100
+        },                                
+        {
+            "middelpunt":
+            {
+                "x": 400,
+                "y": 800
+            },
+            "diameter": 500
+        }
+    ]
+}

@@ -3,8 +3,8 @@ var G = 127;
 var B = 127;
 
 function setup() {
-  var myCanvas = createCanvas(451,451);
-  myCanvas.parent('processing');
+  canvas = createCanvas(451,451);
+  canvas.parent('processing');
   frameRate(5);
 }
 

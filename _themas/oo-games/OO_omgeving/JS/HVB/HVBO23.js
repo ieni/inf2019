@@ -12,7 +12,7 @@ class Cirkel {
     this.snelheid = 0;
     this.kleur = round(this.y / 2);
   }
-  
+
   teken() {
       push();
       noStroke();
@@ -20,7 +20,7 @@ class Cirkel {
       ellipse(this.x,this.y,this.diameter);
       pop();
   }
-  
+
   beweeg() {
     this.y += this.snelheid;
   }
@@ -29,19 +29,18 @@ class Cirkel {
     **      EINDE klasse Cirkel   BEGIN hoofdprogramma      **
     ********************************************************** */
 
-var myCanvas;
 var cirkels = [];
 var aantal = 0;
 
 function setup() {
   // initialisatie
-  
-  myCanvas = createCanvas(700,400);
-  myCanvas.parent('processing');
+
+  canvas = createCanvas(700,400);
+  canvas.parent('processing');
   textFont("Monospace");
-  textSize(60); 
+  textSize(60);
   fill('black');
-  cirkels.push(new Cirkel(myCanvas.width / 2,myCanvas.height / 2));
+  cirkels.push(new Cirkel(canvas.width / 2,canvas.height / 2));
   cirkels[0].kleur = 'red';
 }
 
@@ -53,11 +52,11 @@ function draw() {
     cirkels[c].teken();
   }
   fill(255);
-  textSize(60); 
+  textSize(60);
   text("aantal cirkels: " + cirkels.length,20,50);
   fill(0);
-  textSize(30); 
-  text("Probeer dit uit op een touchscreen!",20,380);  
+  textSize(30);
+  text("Probeer dit uit op een touchscreen!",20,380);
 }
 
 function touchStarted() {

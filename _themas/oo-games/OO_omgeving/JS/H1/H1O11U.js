@@ -3,8 +3,8 @@ var horizontaalB = 500;
 var verticaal = 170;
 
 function setup() {
-  var myCanvas = createCanvas(1000,300);
-  myCanvas.parent('processing');
+  canvas = createCanvas(1000,300);
+  canvas.parent('processing');
   textFont("Verdana");
   textSize(30);
   stroke('white');

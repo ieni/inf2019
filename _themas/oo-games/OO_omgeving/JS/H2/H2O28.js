@@ -2,7 +2,7 @@ var raster = {
   aantalRijen: 6,
   aantalKolommen: 9,
   celGrootte: null,
-  
+
   berekenCelGrootte() {
     this.celGrootte = canvas.width/this.aantalKolommen;
   },
@@ -44,15 +44,15 @@ var jos = {
       this.y += this.stapGrootte;
       this.frameNummer = 5;
     }
-    
+
     this.x = constrain(this.x,0,canvas.width-raster.celGrootte);
     this.y = constrain(this.y,0,canvas.height-raster.celGrootte);
   },
-  
+
   wordtGeraakt(vijand) {
     return false;
-  },  
-  
+  },
+
   toon() {
     image(this.animatie[this.frameNummer],this.x,this.y,raster.celGrootte,raster.celGrootte);
   }
@@ -71,7 +71,7 @@ var alice = {
     this.x = constrain(this.x,0,canvas.width - raster.celGrootte);
     this.y = constrain(this.y,0,canvas.height - raster.celGrootte);
   },
-  
+
   toon() {
     image(this.sprite,this.x,this.y,raster.celGrootte,raster.celGrootte);
   }
@@ -89,8 +89,8 @@ function preload() {
 }
 
 function setup() {
-  var myCanvas = createCanvas(900,600);
-  myCanvas.parent('processing');
+  canvas = createCanvas(900,600);
+  canvas.parent('processing');
   frameRate(10);
   raster.berekenCelGrootte();
   jos.stapGrootte= 1*raster.celGrootte;
@@ -103,8 +103,8 @@ function draw() {
   jos.beweeg();
   jos.toon();
   alice.toon();
-  
+
   if (jos.wordtGeraakt(alice)) {
     noLoop();
-  }  
+  }
 }

@@ -7,8 +7,8 @@ var hoogteCanvas = null;
 
 function setup() {
     hoogteCanvas = breedteCanvas*sqrt(3) / 2;
-    var myCanvas = createCanvas(breedteCanvas,hoogteCanvas);
-    myCanvas.parent('processing');
+    canvas = createCanvas(breedteCanvas,hoogteCanvas);
+    canvas.parent('processing');
     noLoop();
     background('white');
     fill('black');

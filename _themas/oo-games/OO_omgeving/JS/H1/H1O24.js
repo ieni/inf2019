@@ -4,8 +4,8 @@ var xProoi = 800;
 var yProoi = 175;
 
 function setup() {
-  var myCanvas = createCanvas(1000,400);
-  myCanvas.parent('processing');
+  canvas = createCanvas(1000,400);
+  canvas.parent('processing');
   textFont("Verdana");
   textSize(140);
   noStroke();
@@ -27,8 +27,8 @@ function draw() {
     yJager += 5;
   }
 
-  xJager=constrain(xJager,0,width - 100);
-  yJager=constrain(yJager,0,height - 100);
+  xJager = constrain(xJager,0,width - 100);
+  yJager = constrain(yJager,0,height - 100);
 
   if (xJager >= 700 && xJager <= 875 && yJager >= 75 && yJager <= 225) {
     fill('chartreuse');

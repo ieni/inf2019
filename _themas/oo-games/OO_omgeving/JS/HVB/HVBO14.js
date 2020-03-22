@@ -27,8 +27,8 @@ function preload() {
 }
 
 function setup() {
-  var myCanvas = createCanvas(460,300);
-  myCanvas.parent('processing');
+  canvas = createCanvas(460,300);
+  canvas.parent('processing');
   textFont("Georgia");
   textSize(18);
   noStroke();
