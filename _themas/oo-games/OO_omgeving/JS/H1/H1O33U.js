@@ -1,6 +1,6 @@
 function setup() {
-  var myCanvas = createCanvas(1000,450);
-  myCanvas.parent('processing');
+  canvas = createCanvas(1000,450);
+  canvas.parent('processing');
 }
 
 function draw() {

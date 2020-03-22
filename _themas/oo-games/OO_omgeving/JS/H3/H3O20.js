@@ -21,7 +21,7 @@ class Speler {
     }
     this.gewonnen = false;
   }
-  
+
   teken() {
     push();
     noStroke();
@@ -29,7 +29,7 @@ class Speler {
     rect(this.x,this.y,this.breedte,this.hoogte);
     pop();
   }
-  
+
   raaktBal(bal) {
     if ((this.links && bal.x < this.x + this.breedte && bal.y > this.y && bal.y < this.y + this.hoogte) ||
         (!this.links && bal.x > this.x && bal.x < this.x + this.breedte && bal.y > this.y && bal.y < this.y + this.hoogte)) {
@@ -58,13 +58,13 @@ class Tennisbal {
     this.kleur = 0;
     this.factor = 1;
   }
-  
+
   botsTegenWand() {
     if (this.y < this.straal || this.y >  canvas.height - this.straal) {
       this.snelheidY *= -1;
     }
   }
-  
+
   reageerOpRacket(r) {
     this.snelheidX *= -1.1;
     this.snelheidX = constrain(this.snelheidX,-40,40);
@@ -75,16 +75,16 @@ class Tennisbal {
       this.x = r.x - this.straal;
     }
     this.factor = 4 * ((r.y + 0.5 * r.hoogte) - this.y) / r.hoogte;
-    this.factor = round(100 * this.factor)/100 * Math.sign(this.snelheidY);      
-    this.snelheidY = this.basissnelheid * this.factor;       
+    this.factor = round(100 * this.factor)/100 * Math.sign(this.snelheidY);
+    this.snelheidY = this.basissnelheid * this.factor;
   }
-  
+
   beweeg() {
     this.x+=this.snelheidX;
     this.y+=this.snelheidY;
     this.botsTegenWand();
   }
-  
+
   teken() {
     fill(this.kleur);
     ellipse(this.x,this.y,this.diameter);
@@ -106,7 +106,7 @@ class Tennis {
     this.snelheidSpeler = 50;
     this.snelheidBal = 3;
   }
-  
+
   nieuw() {
     var x = null;
     var y = null;
@@ -125,7 +125,7 @@ class Tennis {
     this.speler2.gewonnen = false;
     this.afgelopen = false;
   }
-  
+
   beginScherm() {
     push();
     textAlign(CENTER,TOP);
@@ -133,7 +133,7 @@ class Tennis {
     text("Welkom bij Tennis. Speel dit spel met z'n tweeën:\nLINKS speelt met q en z, RECHTS speelt met i en m.\nKlik om het spel te starten.",0,canvas.height / 4,canvas.width,canvas.height)
     pop();
   }
-  
+
   eindScherm() {
     var tekst = 'Rechts';
     if (this.speler1.gewonnen) {
@@ -145,8 +145,8 @@ class Tennis {
     fill(0);
     text(tekst,0,0,canvas.width,canvas.height);
     pop();
-  }  
-  
+  }
+
   update() {
     this.speler1.y = constrain(this.speler1.y,0,canvas.height - this.speler1.hoogte);
     this.speler2.y = constrain(this.speler2.y,0,canvas.height - this.speler2.hoogte);
@@ -156,7 +156,7 @@ class Tennis {
       }
       if (this.speler2.raaktBal(this.bal)) {
         this.bal.reageerOpRacket(this.speler2);
-      }      
+      }
       this.bal.beweeg();
       if (this.bal.x < 0) {
         this.afgelopen = true;
@@ -168,7 +168,7 @@ class Tennis {
       }
     }
   }
-  
+
   teken() {
     background(240);
     textFont("Monospace");
@@ -194,11 +194,10 @@ class Tennis {
 
 
 function setup() {
-  var myCanvas = createCanvas(700,400);
-  myCanvas.parent('processing');
+  canvas = createCanvas(700,400);
+  canvas.parent('processing');
   spel = new Tennis();
   spel.nieuw();
-  spel.teken();
 }
 
 function draw() {
@@ -215,7 +214,7 @@ function mousePressed() {
       spel.nieuw();
       spel.teken();
     }
-  }  
+  }
 }
 
 function keyTyped() {
@@ -230,7 +229,7 @@ function keyTyped() {
   }
   if (spel.actief && key == 'i') {
     spel.speler2.y -= spel.snelheidSpeler;
-  }  
+  }
   return false;
 }
 

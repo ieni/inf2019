@@ -2,8 +2,8 @@ var aantal = 5;
 var Nbloemen = 6;
 
 function setup() {
-  var myCanvas = createCanvas(1000,200);
-  myCanvas.parent('processing');
+  canvas = createCanvas(1000,200);
+  canvas.parent('processing');
   frameRate(10);
   colorMode(RGB, 255, 255, 255, 1);
   angleMode(DEGREES);

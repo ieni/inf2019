@@ -12,16 +12,16 @@ class Button {
     this.l = grootte;
     this.isGeraakt = false;
   }
-  
+
   wordtGeraakt(x,y) {
     if (x > this.x && x < this.x + this.l && y > this.y && y < this.y + this.l) {
       return true;
     }
     else {
-      return false;     
+      return false;
     }
   }
-  
+
   teken() {
       push();
       strokeWeight(10);
@@ -53,7 +53,7 @@ class Unlocker {
     this.invoer = [];
     this.maakInvoer();
   }
-  
+
   maakInvoer() {
     var x = this.marge;
     var y = -this.grootte;
@@ -66,7 +66,7 @@ class Unlocker {
       x += this.grootte + this.marge;
     }
   }
-  
+
   wordtGeraakt(x,y) {
     for (var c = 0;c < this.code.length;c++) {
       if (this.invoer[c].wordtGeraakt(x,y) && !this.invoer[c].isGeraakt) {
@@ -82,9 +82,9 @@ class Unlocker {
     for (var c = 0;c < this.code.length;c++) {
       this.invoer[c].isGeraakt = false;
       this.ingevoerdeCode[c] = 0;
-    }    
+    }
   }
-  
+
   correct() {
     var toegang = true;
     for (var c = 0;c < this.code.length;c++) {
@@ -94,7 +94,7 @@ class Unlocker {
     }
     return toegang;
   }
-  
+
   teken() {
     for (var c = 0;c < this.code.length;c++) {
       this.invoer[c].teken();
@@ -107,23 +107,22 @@ class Unlocker {
     ********************************************************** */
 
 
-var myCanvas;
 var patroon = [1,0,5,
                0,2,4,
                0,0,3];
-               
+
 var grootte = 100;
 var marge = 30;
 var lCanvas = 4 * marge + 3 * grootte;
 
 function setup() {
   // initialisatie
-  
-  myCanvas = createCanvas(lCanvas,lCanvas);
-  myCanvas.parent('processing');
+
+  canvas = createCanvas(lCanvas,lCanvas);
+  canvas.parent('processing');
   colorMode(RGB,255,255,255,1);
   textFont("Monospace");
-  textSize(80); 
+  textSize(80);
   textAlign(CENTER,CENTER);
   fill('black');
   background(255);
@@ -150,7 +149,7 @@ function touchEnded() {
   background(255);
   if (login.correct()) {
     fill(0);
-    text('WELKOM',0,0,myCanvas.width,myCanvas.height);
+    text('WELKOM',0,0,canvas.width,canvas.height);
   }
   else {
     login.teken();

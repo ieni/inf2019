@@ -12,7 +12,7 @@ class Auto {
     this.l = g * this.schaal;
     this.kleur = 'green';
   }
-  
+
   aangeraakt(x,y) {
     if (dist(x,y,this.x + this.l/2,this.y + this.l/2) < this.l / 3) {
       return true;
@@ -21,7 +21,7 @@ class Auto {
       return false;
     }
   }
-  
+
   teken() {
       push();
       noStroke();
@@ -49,7 +49,7 @@ class Cel {
     this.l = l;
     this.kleur = 0;
   }
-  
+
   wordtGeraakt(s) {
     if (s.x + s.l > this.x && s.x < this.x + this.l && s.y + s.l > this.y && s.y < this.y + this.l) {
       if (this.kleur == 0) {
@@ -58,7 +58,7 @@ class Cel {
     }
     return false;
   }
-  
+
   teken() {
     push();
     fill(this.kleur);
@@ -80,11 +80,11 @@ class Racer {
     this.actief = false;
     this.afgelopen = false;
   }
-  
+
   maakParcours(patroon,grootte) {
     var rooster = [];
-    for (var rij = 0; rij < myCanvas.height / grootte; rij++) {
-      for (var kolom = 0; kolom < myCanvas.width / grootte; kolom++) {
+    for (var rij = 0; rij < canvas.height / grootte; rij++) {
+      for (var kolom = 0; kolom < canvas.width / grootte; kolom++) {
         rooster.push(new Cel(kolom*grootte,rij*grootte,grootte));
       }
     }
@@ -95,31 +95,31 @@ class Racer {
     }
     return rooster;
   }
-  
+
   beginScherm() {
     push();
     fill(0);
-    text("Dit is een simpel Race-spel. Bestuur je auto met het touchscreen.\n\nBegin het spel door het scherm aan te raken.",0,0,myCanvas.width,myCanvas.height)
+    text("Dit is een simpel Race-spel. Bestuur je auto met het touchscreen.\n\nBegin het spel door het scherm aan te raken.",0,0,canvas.width,canvas.height)
     pop();
   }
-  
+
   eindScherm() {
     push();
     fill('yellow');
     stroke('red');
     strokeWeight(10);
-    rect(myCanvas.width/7,myCanvas.height/3,myCanvas.width*5/7,myCanvas.height/3);
+    rect(canvas.width/7,canvas.height/3,canvas.width*5/7,canvas.height/3);
     fill(0);
     noStroke();
-    if (spel.speler.x == myCanvas.width) {
-      text("GEFELICITEERD!",0,0,myCanvas.width,myCanvas.height);
+    if (spel.speler.x == canvas.width) {
+      text("GEFELICITEERD!",0,0,canvas.width,canvas.height);
     }
     else {
-      text("HELAAS: je bent AF.",0,0,myCanvas.width,myCanvas.height);
+      text("HELAAS: je bent AF.",0,0,canvas.width,canvas.height);
     }
     pop();
-  }  
-  
+  }
+
   teken() {
     background(200);
     textSize(40);
@@ -144,7 +144,6 @@ class Racer {
     ********************************************************** */
 
 
-var myCanvas;
 var rooster = [];
 var patroon = [1,1,0,0,0,0,0,0,0,0,0,0,0,0,
                1,1,0,1,1,1,0,0,0,0,1,1,1,0,
@@ -154,16 +153,16 @@ var patroon = [1,1,0,0,0,0,0,0,0,0,0,0,0,0,
                0,1,0,1,1,1,0,1,1,1,0,1,0,0,
                0,1,0,0,0,0,0,0,0,1,0,1,1,1,
                0,1,1,1,1,1,1,1,1,1,0,1,1,0];
-               
+
 var grootte = 50;
 
 function setup() {
   // initialisatie
-  
-  myCanvas = createCanvas(700,400);
-  myCanvas.parent('processing');
+
+  canvas = createCanvas(700,400);
+  canvas.parent('processing');
   textFont("Monospace");
-  textSize(20); 
+  textSize(20);
   textAlign(CENTER,CENTER);
   fill('black');
   speler = new Auto(grootte);
@@ -173,14 +172,14 @@ function setup() {
 
 function touchMoved() {
   if (spel.speler.aangeraakt(touches[0].x,touches[0].y) && !spel.afgelopen) {
-    spel.speler.x = constrain(touches[0].x - spel.speler.l/2,0, myCanvas.width);
-    spel.speler.y = constrain(touches[0].y - spel.speler.l/2,0, myCanvas.height - spel.speler.l);
+    spel.speler.x = constrain(touches[0].x - spel.speler.l/2,0, canvas.width);
+    spel.speler.y = constrain(touches[0].y - spel.speler.l/2,0, canvas.height - spel.speler.l);
     for (var r = 0; r < spel.parcours.length; r++) {
-      if (spel.parcours[r].wordtGeraakt(spel.speler) || spel.speler.x == myCanvas.width) {
+      if (spel.parcours[r].wordtGeraakt(spel.speler) || spel.speler.x == canvas.width) {
         spel.speler.kleur = 'red';
         spel.afgelopen = true;
       }
-    } 
+    }
     spel.teken();
   }
 }

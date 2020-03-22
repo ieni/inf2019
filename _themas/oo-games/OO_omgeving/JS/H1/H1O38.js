@@ -1,6 +1,6 @@
 function setup() {
-  var myCanvas = createCanvas(729,330);
-  myCanvas.parent('processing');
+  canvas = createCanvas(729,330);
+  canvas.parent('processing');
   noLoop();
   background('silver');
   textFont("Courier");

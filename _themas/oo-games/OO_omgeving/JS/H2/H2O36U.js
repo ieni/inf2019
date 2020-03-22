@@ -28,8 +28,8 @@ class Boom {
 var bomen = [];
 
 function setup() {
-  var myCanvas = createCanvas(800,400);
-  myCanvas.parent('processing');
+  canvas = createCanvas(800,400);
+  canvas.parent('processing');
   noStroke();
   frameRate(1);
   

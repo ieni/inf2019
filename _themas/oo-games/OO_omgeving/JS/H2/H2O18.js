@@ -33,8 +33,8 @@ var jos = {
 
 
 function setup() {
-  var myCanvas = createCanvas(1000,250);
-  myCanvas.parent('processing');
+  canvas = createCanvas(1000,250);
+  canvas.parent('processing');
   fill('black');
   textFont("Verdana");
   textSize(14);

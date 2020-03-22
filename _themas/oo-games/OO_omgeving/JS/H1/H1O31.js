@@ -1,8 +1,8 @@
 kleur='white';
 
 function setup() {
-  var myCanvas = createCanvas(451,451);
-  myCanvas.parent('processing');
+  canvas = createCanvas(451,451);
+  canvas.parent('processing');
   background('coral');
 }
 

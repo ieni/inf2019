@@ -72,8 +72,8 @@ var tekstKleur = 'black';
 function setup() {
   // initialisatie
   
-  var myCanvas = createCanvas(700,400);
-  myCanvas.parent('processing');
+  canvas = createCanvas(700,400);
+  canvas.parent('processing');
   c1 = new Cirkel(canvas.width / 2, canvas.height / 2);
   c2 = new Cirkel(canvas.width / 2, 3 * canvas.height / 4);
 }
@@ -84,7 +84,6 @@ function draw() {
   c1.teken();
   c2.beweeg2();
   c2.teken();  
-  //basisTekst = 'key='+key+' keyCode='+keyCode+'\n';
   tekst = basisTekst+'\n';
   if (keyIsDown(LEFT_ARROW)) {
     tekstKleur = 'green';

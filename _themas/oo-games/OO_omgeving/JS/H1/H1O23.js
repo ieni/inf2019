@@ -2,8 +2,8 @@ var x = 50;
 var y = 50;
 
 function setup() {
-  var myCanvas = createCanvas(1000,400);
-  myCanvas.parent('processing');
+  canvas = createCanvas(1000,400);
+  canvas.parent('processing');
   textFont("Verdana");
   textSize(14);
   noStroke();
@@ -20,7 +20,7 @@ function draw() {
     y += 5;
   }
 
-  y=constrain(y,0,height - 100);
+  y = constrain(y,0,height - 100);
 
   if (y >= 75 && y <= 225) {
     fill('chartreuse');

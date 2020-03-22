@@ -80,8 +80,8 @@ var stoplicht = {
 }
 
 function setup() {
-  var myCanvas = createCanvas(1000,300);
-  myCanvas.parent('processing');
+  canvas = createCanvas(1000,300);
+  canvas.parent('processing');
   frameRate(50);
   noStroke();
   bal.straal = bal.diameter/2;

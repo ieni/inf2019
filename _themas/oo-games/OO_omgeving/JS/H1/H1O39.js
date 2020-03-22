@@ -2,8 +2,8 @@ var diameter = 400;
 var aantal = 0;
 
 function setup() {
-    var myCanvas = createCanvas(1000,500);
-    myCanvas.parent('processing');
+    canvas = createCanvas(1000,500);
+    canvas.parent('processing');
     noLoop();
     background('white');
     noFill();

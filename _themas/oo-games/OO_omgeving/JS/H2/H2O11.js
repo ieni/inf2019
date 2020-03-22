@@ -11,8 +11,8 @@ function preload() {
 }
 
 function setup() {
-  var myCanvas = createCanvas(250,100);
-  myCanvas.parent('processing');
+  canvas = createCanvas(250,100);
+  canvas.parent('processing');
   noStroke();
   frameRate(5);
   textFont("Georgia");

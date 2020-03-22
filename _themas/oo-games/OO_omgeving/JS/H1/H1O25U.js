@@ -7,8 +7,8 @@ var onderlingeAfstand;
 
 
 function setup() {
-  var myCanvas = createCanvas(1000,300);
-  myCanvas.parent('processing');
+  canvas = createCanvas(1000,300);
+  canvas.parent('processing');
   frameRate(50);
   colorMode(RGB,255,255,255,1);
   background(0,0,75,1);
