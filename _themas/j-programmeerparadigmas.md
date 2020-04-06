@@ -4,7 +4,7 @@ layout: thema
 thema: "programmeerparadigma's"
 ---
 
-**Kees Huizing, Jacco Gnodde, Hans van den Burg, Coen Crombach**
+**Kees Huizing, Jacco Gnodde, Hans van den Burg, Frank Buijze, Coen Crombach**
 
 De module introduceert de belangrijkste programmeerparadigma’s
 en werkt het paradigma functioneel programmeren verder uit aan de hand van de taal Elm.
