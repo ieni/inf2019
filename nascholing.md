@@ -12,14 +12,15 @@ U kunt de cursus vanuit huis bijwonen. De cursussen worden gegeven door de ontwi
 Daarnaast organiseren we voor sommige thema's **een online uitwisselingsbijeenkomst** voor docenten die al enige ervaring hebben opgedaan met de lesmodule. Het doel van deze bijeenkomsten is om ervaringen en materialen met elkaar uit te wisselen.
 
 We bieden de volgende cursussen aan in mei en juni 2020. Elke bijeenkomst duurt maximaal 2 uur, meestal van 15.30 tot 17.30 uur.
-| cursus | aantal bijeenkomsten | data
-| --- | --- | ---
-| Domein G Algoritmiek | 3 bijeenkomsten | 14, 28 mei en 11 juni
-| Domein J Programmeerparadigma’s functioneel | 2 bijeenkomsten | 19 mei en 2 juni
-| Domein L Netwerken | 2 bijeenkomsten | 3 en 17 juni
-| Domein M Physical Computing | 2 bijeenkomsten | 18 en 25 mei
-| Domein M Physical Computing | 1 uitwisselingsbijeenkomst | 15 juni
-| Domein P User experience | 1 uitwisselingsbijeenkomst | volgt nog
+
+| cursus | aantal bijeenkomsten | data |
+| --- | --- | --- |
+| Domein G Algoritmiek | 3 bijeenkomsten | 14, 28 mei en 11 juni |
+| Domein J Programmeerparadigma’s functioneel | 2 bijeenkomsten | 19 mei en 2 juni |
+| Domein L Netwerken | 2 bijeenkomsten | 3 en 17 juni |
+| Domein M Physical Computing | 2 bijeenkomsten | 18 en 25 mei |
+| Domein M Physical Computing | 1 uitwisselingsbijeenkomst | 15 juni |
+| Domein P User experience | 1 uitwisselingsbijeenkomst | volgt nog |
 
 Zie ook [het overzicht de keuzethema's en het ontwikkelde lesmateriaal](https://ieni.github.io/inf2019/)
 
@@ -47,6 +48,7 @@ Binnen het nieuwe examenprogramma zijn 12 keuzethema’s gedefinieerd. Voor elk 
 Het is onze ambitie om in de komende drie jaar alle keuzethema’s twee keer aan bod te laten komen. De nascholing wordt inhoudelijk gegeven door de ontwikkelaars van de modules, dat zijn meestal vakdidactici informatica samen met één of twee docenten uit het VO.
 
 Deze nascholing wordt aangeboden vanuit de verschillende universiteiten en HBO’s betrokken bij de ontwikkeling van de lesmodules. Dit zijn alle betrokken organisaties:
+
 * Rijksuniversiteit Groningen
 * Universiteit Twente
 * Universiteit Utrecht
