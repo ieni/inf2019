@@ -11,7 +11,7 @@ U kunt de cursus vanuit huis bijwonen. De cursussen worden gegeven door de ontwi
 
 Daarnaast organiseren we voor sommige thema's **een online uitwisselingsbijeenkomst** voor docenten die al enige ervaring hebben opgedaan met de lesmodule. Het doel van deze bijeenkomsten is om ervaringen en materialen met elkaar uit te wisselen.
 
-We bieden de volgende cursussen aan in mei en juni 2020. Elke bijeenkomst duurt maximaal 2 uur, meestal van 15.30 tot 17.30 uur.
+We bieden de volgende cursussen aan in mei en juni 2020. Elke bijeenkomst duurt maximaal 2 uur, van 15.30 tot 17.30 uur.
 
 | cursus | aantal bijeenkomsten | data |
 | --- | --- | --- |
@@ -20,7 +20,7 @@ We bieden de volgende cursussen aan in mei en juni 2020. Elke bijeenkomst duurt 
 | Domein L Netwerken | 2 bijeenkomsten | 3 en 17 juni |
 | Domein M Physical Computing | 2 bijeenkomsten | 18 en 25 mei |
 | Domein M Physical Computing | 1 uitwisselingsbijeenkomst | 15 juni |
-| Domein P User experience | 1 uitwisselingsbijeenkomst | volgt nog |
+| Domein P User experience | 2 bijeenkomsten |  20 en 27 mei  |
 
 Zie ook [het overzicht de keuzethema's en het ontwikkelde lesmateriaal](https://ieni.github.io/inf2019/)
 
