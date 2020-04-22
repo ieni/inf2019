@@ -22,7 +22,7 @@ We bieden de volgende cursussen aan in mei en juni 2020. Elke bijeenkomst duurt 
 | Domein M Physical Computing | 1 uitwisselingsbijeenkomst | 15 juni |
 | Domein P User experience | 2 bijeenkomsten |  20 en 27 mei  |
 
-Zie ook [het overzicht de keuzethema's en het ontwikkelde lesmateriaal](https://ieni.github.io/inf2019/)
+Onderaan deze pagina vindt u per cursus een korte toelichting. Zie ook [het overzicht de keuzethema's en het ontwikkelde lesmateriaal](https://ieni.github.io/inf2019/).
 
 ## Doelgroep
 Docenten informatica bovenbouw havo/vwo.
@@ -42,8 +42,33 @@ Mocht u vragen hebben, kunt u ons altijd mailen via: ONZ@tudelft.nl.
 ## Vervolg
 In het najaar 2020 komen 4 of 5 andere keuzethema’s aan bod, we zullen u hier later over informeren.
 
+## Korte toelichting per cursus
+
+### Algoritmiek
+'Algoritmiek, berekenbaarheid en logica' is de titel van een keuzemodule in het nieuwe curriculum. Bij deze module staat de kwaliteit van algoritmen centraal. Kwaliteit op het gebied van efficiëntie en correctheid. De eerste twee bijeenkomsten gaan over algoritmiek gaan, de derde gaat over logica. We geven antwoord op de volgende vragen: 
+
+* Hoe kunnen we algoritmen op efficiëntie vergelijken en hoe kunnen we die beredeneren? Denk aan: looptijden meten en beredeneren, omgaan met ordegroottes.
+* Welke problemen in de informatica hebben een efficiënte oplossing en welke zijn lastig op te lossen door een computer? 
+* Welke gereedschappen uit de logica kun je gebruiken om over de correctheid van algoritmes te redeneren? Denk onder meer aan gecombineerde Booleaanse uitdrukkingen opstellen en vereenvoudigen
+
+### Functioneel programmeren
+De lesmodule zelf begint met een introductie van diverse paradigma’s, gevolgd door een verdere uitwerking van het Functionele paradigma. De bijscholing zal zich op het functionele deel richten. De bijgeschoolde docent zal in staat zijn na afloop van deze nascholing om het lesmateriaal over paradigma’s en specifiek functioneel programmeren met zijn/haar leerlingen te doorlopen en hun te helpen bij de gangbare problemen die zij daarbij tegenkomen. 
+
+### Netwerken
+De nascholing voor domein L - netwerken is vooral gericht op de praktische opdrachten uit de lesmodules. Docenten kunnen deze opdrachten uitvoeren met begeleiding op afstand. Een deelnemer is in staat om de lesmodule voor dit domein voor haar/zijn leerlingen in te zetten. 
+
+### Physical Computing
+Het doel van de nascholing is dat u als docent informatica vertrouwd raakt met het keuzethema physical computing en het bijbehorende materiaal. We zullen veel tijd nemen om te oefenen met de belangrijkste onderdelen uit het materiaal. De lesmodule (beschikbaar via: https://maken.wikiwijs.nl/135434/Physical_Computing_geheel) leert leerlingen hoe ze zelf een systeem kunnen ontwerpen en ontwikkelen waarbij sensoren en actuatoren een belangrijke rol spelen. Ze zien hoe dit soort systemen in het dagelijks leven een belangrijke functie hebben. Ze leren hoe ze zo’n systeem kunnen ontwerpen met behulp van toestandsdiagrammen en ze leren hoe ze op basis van dat ontwerp een systeem kunnen implementeren. Daarvoor werken de leerlingen met Micro:bit, Arduino of Lego Mindstorms.
+
+### Physical Computing (uitwisselingsbijeenkomst)
+De uitwisselingsbijeenkomst is voor docenten die al met het materiaal werken, met als doel om ervaringen uit te wisselen en suggesties ter verbering te bespreken.
+
+### User Experience
+In deze nascholing zal de module User Experience (UX) en de plek in het curriculum worden behandeld. Deze module maakt leerlingen bekend met theorie, praktijk en ontwerpprincipes van UX. In de nascholing komen de relevante theoretische begrippen en methodieken aan de orde. Voorts staan we stil bij de mogelijke vormen van formatieve / summatieve toetsing en de ervaringen van pilotscholen. We sluiten af met een oefening die aansluit bij de voor leerlingen beschikbare opdrachten. Na afloop is de deelnemer in staat om de module voor haar/zijn leerlingen in te zetten en staat hij/zij boven de behandelde materie.
+
 ## Achtergrond nascholing informatica keuzethema's
-Binnen het nieuwe examenprogramma zijn 12 keuzethema’s gedefinieerd. Voor elk keuzethema wordt onder coördinatie van SLO een uitgebreide lesmodule ontwikkeld. Daarnaast bieden we voor elk keuzethema een 3- of 4-delige cursus aan. Docenten informatica kunnen zich op die manier verdiepen in de inhoud en didactiek van de modules.
+Binnen het nieuwe examenprogramma zijn 12 keuzethema’s gedefinieerd. Voor elk keuzethema wordt onder coördinatie van SLO een uitgebreide lesmodule ontwikkeld. Dit is mede mogelijk gemaakt door een bijdrage vanuit de universitaire sectorplangelden Wiskunde en Informatica (W&I).
+Daarnaast bieden we voor elk keuzethema een korte cursus aan. Docenten informatica kunnen zich op die manier verdiepen in de inhoud en didactiek van de modules.
 
 Het is onze ambitie om in de komende drie jaar alle keuzethema’s twee keer aan bod te laten komen. De nascholing wordt inhoudelijk gegeven door de ontwikkelaars van de modules, dat zijn meestal vakdidactici informatica samen met één of twee docenten uit het VO.
 
