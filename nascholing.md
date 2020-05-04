@@ -16,7 +16,7 @@ We bieden de volgende cursussen aan in mei en juni 2020. Elke bijeenkomst duurt 
 | cursus | aantal bijeenkomsten | data |
 | --- | --- | --- |
 | Domein G Algoritmiek | 3 bijeenkomsten | 14, 28 mei en 11 juni |
-| Domein J Programmeerparadigma’s functioneel | 2 bijeenkomsten | 19 mei en 2 juni |
+| Domein J Programmeerparadigma’s functioneel | 2 bijeenkomsten | **Let op: gewijzigde datum**: 10 en 24 juni |
 | Domein L Netwerken | 2 bijeenkomsten | 3 en 17 juni |
 | Domein M Physical Computing | 2 bijeenkomsten | 18 en 25 mei |
 | Domein M Physical Computing | 1 uitwisselingsbijeenkomst | 15 juni |
