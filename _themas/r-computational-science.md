@@ -21,6 +21,11 @@ Deze links staan ook op de hoofdstukpagina's, mocht het niet mogelijk zijn de li
 * <i class="far fa-file-pdf"></i> [Lesmateriaal](computational-science/Module_ABM_lesmateriaal.pdf){:target="_blank"}
 * <i class="fa fa-file-archive" aria-hidden="true"></i> [Bijmateriaal](computational-science/Module_ABM_bijmateriaal.zip){:target="_blank"}
 
+- [Hoofdstuk 1 - Modellen](computational-science/h1-modellen)
+- [Hoofdstuk 2 - NetLogo](computational-science/h2-netlogo)
+- [Hoofdstuk 3 - Onderzoek doen](computational-science/h3-onderzoek-doen)
+
+
 ## Docentmateriaal
 
 Materiaal voor de docent, zoals powerpoints en extra opdrachten zijn te vinden onder:
