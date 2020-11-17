@@ -12,6 +12,6 @@ Deze taal is geschikt om de basisconcepten van ‘klassiek’ functioneel progra
 maar ook om op een compacte manier websites te bouwen.
 In het toepassingendeel bouwen de leerlingen op basis van voorbeelden een aantal interactieve webpagina’s.
 
-Zie: [Het lesmateriaal op Jupyter Notebooks](https://jupyterhub.frajaweb.com/hub/login){:target="_blank"}
+Zie: [Startpagina van het lesmateriaal](https://paradigmafunctioneel.github.io/functioneelElm/){:target="_blank"}
 
-Login met een Github account
+
