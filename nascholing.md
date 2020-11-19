@@ -14,7 +14,7 @@ Daarnaast organiseren we voor sommige thema's **een online uitwisselingsbijeenko
 We bieden de volgende cursussen aan in mei en juni 2020. Elke bijeenkomst duurt maximaal 2 uur, van 15.30 tot 17.30 uur.
 
 | cursus | aantal bijeenkomsten | data |
-| --- | --- | --- |
+| :--- | :--- | :--- |
 | Domein G Algoritmiek | 3 bijeenkomsten | 14, 28 mei en 11 juni |
 | Domein J Programmeerparadigma’s functioneel | 2 bijeenkomsten | **Let op: gewijzigde datum**: 10 en 24 juni |
 | Domein L Netwerken | 2 bijeenkomsten | 3 en 17 juni |
