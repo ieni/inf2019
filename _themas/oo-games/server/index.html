@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="nl">
+  <head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="CSS/prism_wit.css">
+    <script src="JS/prism.js"></script>
+    <!-- http://prismjs.com/ -->
+    <link rel="stylesheet" type="text/css" href="CSS/games.css">
+    <script src="JS/P5/p5.min.js"></script>
+    <!-- https://p5js.org/download/ -->
+  </head>
+  <body>
+    <div class="container" id="clicker">
+      <blockquote id="menu">
+      </blockquote>
+    </div>
+    <div class="container">
+      <div id="processing"></div>
+    </div>
+
+    <div class="container" id="button-container" style='text-align: center;'>
+      <button class="hoofdstuk" onclick="toonCode()">Toon Javascript-Code</button>
+      <button class="hoofdstuk" id="Ubutton" onclick="toonUitwerkingen()">Toon Uitwerkingen</button>
+      <button class="hoofdstuk" id="Tbutton" onclick="gaTerug()">Terug naar Opgave</button>
+      <div id="code-container" style="display: none;"></div>
+    </div>
+    <script src="JS/SLOBF.js"></script>
+  </body>
+</html>
