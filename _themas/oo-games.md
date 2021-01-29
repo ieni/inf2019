@@ -30,15 +30,11 @@ Op dit moment is een eindredactie-versie beschikbaar met:
 * Een HTML/JS werkomgeving met alle opdracht-bestanden en uitwerkingen
 * Een docentenhandleiding (met overige uitwerkingen) + toetsen (niet hier te downloaden)
 
-Het materiaal is hier te bekijken en te downloaden:
+Het (gecertificeerde) materiaal is hier te bekijken en te downloaden:
 
 * <i class="far fa-file-pdf"></i> [PDF lesmateriaal](oo-games/Module Processing Games vE.pdf)
 * <i class="far fa-file-archive"></i> [ZIP van de online werkomgeving](oo-games/OO_omgeving.zip)
 * <i class="fa fa-link"></i> [Live versie van de online werkomgeving](oo-games/OO_omgeving/){:target="_blank"}
-
-*Opmerking voor vroege gebruikers*
-
-Als u het materiaal al download (of al had gedownload) doet u er verstandig aan om te updaten naar deze versie. Wilt u het materiaal pas na 1 augustus 2020 gebruiken, dan kan het verstandig zijn om even geduld te hebben tot de versie na eindredactie hier verschenen is.
 
 ## Team
 
