@@ -5,7 +5,7 @@ thema: "usability"
 ---
 
 De module Usability vormt de invulling voor Domein O: keuzethema Usability.
-Het materiaal voor deze module is te vinden via deze link: [https://drive.google.com/drive/folders/11NnDs3g-1fvn1ua-bwqGWVOYAvnasS_F?usp=sharing](https://drive.google.com/drive/folders/11NnDs3g-1fvn1ua-bwqGWVOYAvnasS_F?usp=sharing).
+Het materiaal voor deze module is te vinden via deze link: [https://drive.google.com/drive/folders/11NnDs3g-1fvn1ua-bwqGWVOYAvnasS_F?usp=sharing](https://drive.google.com/drive/folders/11NnDs3g-1fvn1ua-bwqGWVOYAvnasS_F?usp=sharing){:target="_blank"}.
 
 ## Ontwikkelteam
 
@@ -21,11 +21,11 @@ l.e.i.breymann@utwente.nl, j.vantklooster@utwente.nl
 
 ## Opzet van het materiaal
 
-De opzet van het materiaal is te vinden in de docentenhandleiding via https://drive.google.com/drive/folders/11NnDs3g-1fvn1ua-bwqGWVOYAvnasS_F?usp=sharing
+De opzet van het materiaal is te vinden in de docentenhandleiding via [https://drive.google.com/drive/folders/11NnDs3g-1fvn1ua-bwqGWVOYAvnasS_F?usp=sharing](https://drive.google.com/drive/folders/11NnDs3g-1fvn1ua-bwqGWVOYAvnasS_F?usp=sharing){:target="_blank"}
 
 ## Aanvullend materiaal
 
-video: https://www.youtube.com/watch?v=TE6bs4mad9A
+video: [https://www.youtube.com/watch?v=TE6bs4mad9A](https://www.youtube.com/watch?v=TE6bs4mad9A){:target="_blank"}
 
 ## Status materiaal
 
