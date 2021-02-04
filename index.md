@@ -12,13 +12,13 @@ Hieronder staan de materialen voor de 12 keuzethema's uit het examenprogramma in
 | G | Algoritmiek, berekenbaarheid en logica | [In ontwikkeling](themas/g-algoritmiek)
 | H | Databases | [Beschikbaar](themas/h-databases)
 | I | Cognitive Computing| Nog op te starten
-| J | Programmeerparadigma's (functioneel)| [Beschikbaar](themas/j-programmeerparadigmas) 
+| J | Programmeerparadigma's (functioneel)| [Beschikbaar](themas/j-programmeerparadigmas)
 | J | Programmeerparadigma's (objectgeoriënteerd) | [Beschikbaar](themas/oo-games)
 | K | Computerarchitectuur | Nog op te starten
 | L | Netwerken | [Beschikbaar](themas/l-netwerken)
 | M | Physical computing | [Beschikbaar](themas/m-physical-computing)
 | N | Security | In ontwikkeling
-| O | Usability | In ontwikkeling
+| O | Usability | [Beschikbaar](themas/o-usability)
 | P | User experience | [Beschikbaar](themas/p-user-experience)
 | P | User experience (game-design)|  [In ontwikkeling](themas/gamedesign)
 | Q | Maatschappelijke en individuele invloed van informatica | In ontwikkeling
@@ -28,7 +28,7 @@ Het materiaal wordt met zorg samengesteld en getest. SLO en auteurs aanvaarden g
 
 Om de kwaliteit van het materiaal te waarborgen wordt een standaard ontwikkelprocedure gehanteerd. Onderdelen daarvan zijn onder meer het testen van de materialen en het laten beoordelen door experts.
 
-De verschillende methodes zoals Instruct / Fundament en Informatica-Actief zorgen voor het materiaal voor het verplichte deel van het programma. 
+De verschillende methodes zoals Instruct / Fundament en Informatica-Actief zorgen voor het materiaal voor het verplichte deel van het programma.
 
 *Feedback*, vragen en opmerkingen over het materiaal is -naast het directe kanaal van de ontwikkelaars- te plaatsen op het [i&i forum, onder "lesmateriaal"](https://ieni-forum.infvo.nl/c/lesmateriaal){:target="_blank"}.
 Voor de verschillende thema's zijn daar aparte sub-categorieën.
