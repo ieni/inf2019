@@ -28,7 +28,7 @@ Op dit moment is een eindredactie-versie beschikbaar met:
 
 * Een PDF met de drie hoofdstukken
 * Een HTML/JS werkomgeving met alle opdracht-bestanden en uitwerkingen
-* Een docentenhandleiding (met overige uitwerkingen) + toetsen (niet hier te downloaden)
+* Een docentenhandleiding (met overige uitwerkingen) + toetsen. Deze is te vinden op het i&i forum, bij het lesmateriaal voor de keuzethema's: https://ieni-forum.infvo.nl/t/games-maken-en-ervaren/540{:target="_blank"} Het docentenmateriaal is alleen toegankelijk als je op het forum als "docent" geregistreerd staat.
 
 Het (gecertificeerde) materiaal is hier te bekijken en te downloaden:
 
