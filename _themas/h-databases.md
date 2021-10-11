@@ -26,7 +26,7 @@ Je kunt ook direct contact opnemen:
 * database-ontwerp: Marc Castenmiller
 * NoSQL en Linked data, en totale module: Eelco Dijkstra
 
-***Project***
+## Project
 
 Het is belangrijk dat leerlingen hun vaardigheden op het gebied van databases ook toepassen in een project.
 Dat hoeft geen speciaal database-project te zijn:
