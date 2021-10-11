@@ -16,21 +16,21 @@ class Vogel {
     this.vy = 3;
     this.a = 0.1;
   }
-  
+
   vlieg() {
     this.vy -= 30 * this.a;
     if (this.y == 0) {
       this.vy = 0;
     }
   }
-  
+
   beweeg() {
     this.x += this.vx;
     this.vy += this.a;
     this.y += this.vy;
     this.y = constrain(this.y,0,canvas.height);
   }
-  
+
   teken() {
       push();
       noStroke();
@@ -52,7 +52,7 @@ class Obstakel {
     this.b = b;
     this.h = h;
   }
-  
+
   raakt(vogel) {
     if (vogel.x + vogel.breedte - vogel.marge > this.x && vogel.x + vogel.marge < this.x + this.b &&
         vogel.y + vogel.hoogte - vogel.marge > this.y && vogel.y + vogel.marge < this.y + this.h) {
@@ -87,13 +87,13 @@ class Bluebird {
     this.maakObstakels();
     this.eindTekst = "HELAAS: je bent AF.";
   }
-  
+
   maakObstakels() {
     for (var o = 0;o<this.aantalObstakels;o++) {
       this.obstakels.push(new Obstakel(200*(o + 1),random(0,250),30,150));
     }
   }
-  
+
   beginScherm() {
     push();
     textAlign(CENTER,CENTER);
@@ -109,7 +109,7 @@ class Bluebird {
     text("\nGebruik SPATIE om te vliegen\nen ontwijk de obstakels.\nDruk ENTER om te starten.\n",0,0,canvas.width,canvas.height * 2 / 3);
     pop();
   }
-  
+
   eindScherm() {
     push();
     textAlign(CENTER,CENTER);
@@ -118,18 +118,18 @@ class Bluebird {
     strokeWeight(3);
     text(this.eindTekst+'\nDruk ENTER voor nieuw spel.\n',0,0,canvas.width,canvas.height * 1 / 3);
     pop();
-  }  
-  
+  }
+
   update() {
     if (spel.actief) {
       this.speler.beweeg();
       for (var o = 0;o<this.obstakels.length;o++) {
-        if(this.obstakels[o].raakt(this.speler) || this.speler.y >= myCanvas.height) {
+        if(this.obstakels[o].raakt(this.speler) || this.speler.y >= canvas.height) {
           this.speler.vx = 0;
           this.afgelopen = true;
         }
       }
-      if (this.speler.x >= myCanvas.width - this.speler.breedte - this.speler.marge) {
+      if (this.speler.x >= canvas.width - this.speler.breedte - this.speler.marge) {
         this.speler.vx = 0;
         this.speler.vy = 0;
         this.speler.a = 0;
@@ -160,21 +160,20 @@ class Bluebird {
     ********************************************************** */
 
 
-var myCanvas;
 var canvasH = 400;
 var canvasB;
 
 function preload() {
   vogelblauw = loadImage("images/sprites/bluebird_R.png");
   achtergrond = loadImage("images/backgrounds/city_skyline.svg");
-  
 }
+
 function setup() {
   // initialisatie
-  
+
   canvasB = canvasH * achtergrond.width / achtergrond.height;
-  myCanvas = createCanvas(canvasB,canvasH);
-  myCanvas.parent('processing');
+  canvas = createCanvas(canvasB,canvasH);
+  canvas.parent('processing');
   colorMode(RGB,255,255,255,1);
   textFont("Monospace");
   textSize(44);

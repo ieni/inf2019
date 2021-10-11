@@ -69,8 +69,8 @@ var tekst = '';
 function setup() {
   // initialisatie
   
-  var myCanvas = createCanvas(700,400);
-  myCanvas.parent('processing');
+  canvas = createCanvas(700,400);
+  canvas.parent('processing');
   c1 = new Cirkel(canvas.width / 2, canvas.height / 4);
   c2 = new Cirkel(canvas.width / 2, 3 * canvas.height / 4);
   textFont("Georgia");

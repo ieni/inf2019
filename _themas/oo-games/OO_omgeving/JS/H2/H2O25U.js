@@ -64,8 +64,8 @@ var prooi = {
 
 
 function setup() {
-  var myCanvas = createCanvas(1000,400);
-  myCanvas.parent('processing');
+  canvas = createCanvas(1000,400);
+  canvas.parent('processing');
   noStroke();
   frameRate(50);
 }

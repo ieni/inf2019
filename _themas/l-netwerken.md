@@ -5,9 +5,11 @@ thema: netwerken
 ---
 
 Het materiaal voor het keuzethema Netwerken: Internet of Things is te vinden op:
-[netwerken - IoT-0](https://infvo.github.io/iot-0){:target="_blank"}
-
+[netwerken - IoT-0](https://infvo.github.io/iot-0){:target="_blank"}.
 Ook de docentenhandleiding is daar te vinden.
+
+> Een nieuwe versie van het materiaal is te vinden op:
+[netwerken - IoTbook](https://infvo.github.io/iotbook){:target="_blank"}.
 
 Aanvullend materiaal is te vinden op:
 [inleiding communicatie - Com-0 ](https://infvo.github.io/com-0){:target="_blank"} en

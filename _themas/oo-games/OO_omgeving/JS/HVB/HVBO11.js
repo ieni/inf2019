@@ -2,8 +2,8 @@ var vierkanten = new Array(23,18,11);
 var namen = new Array("August","Tinus","Colette");
 
 function setup() {
-  var myCanvas = createCanvas(850,220);
-  myCanvas.parent('processing');
+  canvas = createCanvas(850,220);
+  canvas.parent('processing');
   background('orange');
   textFont("Georgia");
   textSize(40);

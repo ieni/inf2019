@@ -4,8 +4,8 @@ var hoogte;
 
 function setup() {
   hoogte = breedte / 2;
-  var myCanvas = createCanvas(800,600);
-  myCanvas.parent('processing');
+  canvas = createCanvas(800,600);
+  canvas.parent('processing');
   noLoop();
 }
 

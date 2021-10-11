@@ -16,7 +16,7 @@ h1, h2, h3, h4, h5, h6, p {
 }
 
 h1 {
-    font-size: 28px;
+    font-size: 24px;
 }
 
 a,a:hover, a:focus, a:active, a:visited {
@@ -58,6 +58,14 @@ button, a.button, a:hover, button:hover, a.button:hover {
     color: #ffb606;
     font-size: 20px;
     border: 1px solid #ffb606;
+    margin-bottom: 10px;
+}
+
+.extern {
+    background: #ffb606;
+    color: #2d4351;
+    font-size: 20px;
+    border: 1px solid #2d4351;
     margin-bottom: 10px;
 }
 

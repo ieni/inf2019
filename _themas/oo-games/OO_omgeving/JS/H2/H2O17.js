@@ -4,7 +4,7 @@ var kever = {
   x: 100,
   y: 150,
   sprite: null,
-  
+
   beweeg() {
     this.x += round(random(-5,5));
     this.y += round(random(-5,5));
@@ -14,12 +14,12 @@ var kever = {
 
 function preload() {
   bomen = loadImage("images/bomen.jpg");
-  kever.sprite = loadImage("images/kever.png");
+  kever.sprite = loadImage("images/sprites/kever.png");
 }
 
 function setup() {
-  var myCanvas = createCanvas(450,450);
-  myCanvas.parent('processing');
+  canvas = createCanvas(450,450);
+  canvas.parent('processing');
   textFont("Verdana");
   textSize(14);
   noStroke();
@@ -28,12 +28,12 @@ function setup() {
 
 function draw() {
   background(bomen);
-  
+
   kever.beweeg();
-  
-  
+
+
   fill('cornsilk');
   rect(0,410,450,40);
-  fill('black');  
+  fill('black');
   text("Het object kever bevindt zich in het punt x = 100 en y = 150",5,435);
 }

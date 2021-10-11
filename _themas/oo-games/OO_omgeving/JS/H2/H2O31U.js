@@ -38,8 +38,8 @@ class DobbelSteen {
 }
 
 function setup() {
-  var myCanvas = createCanvas(700,300);
-  myCanvas.parent('processing');
+  canvas = createCanvas(700,300);
+  canvas.parent('processing');
   colorMode(RGB,255,255,255,1);
   noStroke();
   textFont("Georgia");

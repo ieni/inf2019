@@ -5,11 +5,11 @@ var hoogte;
 function setup() {
   breedte = 900/aantalLagen;
   hoogte = breedte / 2;
-  var myCanvas = createCanvas(900,450);
+  canvas = createCanvas(900,450);
   background('silver');
   fill('lightslategray');
   stroke('darkslategray');  
-  myCanvas.parent('processing');
+  canvas.parent('processing');
   noLoop();
 }
 

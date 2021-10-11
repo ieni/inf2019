@@ -8,6 +8,8 @@ thema: algoritmiek
 
 Presentatie: [Keuzethema Algoritmiek]({{ site.baseurl }}/themas/algoritmiek/koppe-algoritmiek.pdf){:target="_blank"}
 
+(Test)materiaal: [Kwaliteit van algoritmen](https://www.notion.so/Kwaliteit-van-algoritmen-testmateriaal-be645e7fd6ea42aca882b5b77a09b5d0){:target="_blank"}
+
 “Algoritmiek, Berekenbaarheid en Logica” is één van de keuzethema’s in het nieuwe examenprogramma.
 Het bouwt voort op de introductie van algoritmiek in het kernprogramma en laat de leerlingen in verschillende contexten leren wat de complexiteit van algoritmen is.
 Daarbij staat het analyseren van algoritmen centraal.
