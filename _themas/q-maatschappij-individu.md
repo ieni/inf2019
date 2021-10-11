@@ -1,7 +1,7 @@
 ---
 title: "Q. Maatschappelijke en individuele invloed van informatica"
 layout: thema
-thema: maatschappij
+thema: "maatschappij & individu"
 ---
 
 Voor domein Q is het volgende materiaal beschikbaar:
