@@ -21,7 +21,7 @@ Hieronder staan de materialen voor de 12 keuzethema's uit het examenprogramma in
 | O | Usability | [Beschikbaar](themas/o-usability)
 | P | User experience | [Beschikbaar](themas/p-user-experience)
 | P | User experience (game-design)|  [In ontwikkeling](themas/gamedesign)
-| Q | Maatschappelijke en individuele invloed van informatica | In ontwikkeling
+| Q | Maatschappelijke en individuele invloed van informatica | [Beschikbaar](/themas/q-maatschappij-individu)
 | R | Computational science |[Beschikbaar](themas/r-computational-science)
 
 Het materiaal wordt met zorg samengesteld en getest. SLO en auteurs aanvaarden geen enkele aansprakelijkheid voor onjuistheden en/of onvolledigheden in dit materiaal.
