@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
+redirect_to: https://keuzethemas.nl/
 ---
 Hieronder staan de materialen voor de 12 keuzethema's uit het examenprogramma informatica die zijn ontwikkeld in opdracht van SLO.  
 
